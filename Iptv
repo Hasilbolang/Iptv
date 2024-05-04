@@ -4543,3 +4543,298 @@ https://mwmpos03.akamaized.net/out/v1/d5536f0898994112a118290f25e5648b/manifest.
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=af2dc6a1c9754ec7b0ff0377da872153:7af660ca428760dfbe99e10047e0e2e4
 https://mwmpos01.akamaized.net/out/v1/ee3d338d368f453a9c4181d119599e05/manifest.mpd
+
+=====================================TV Malaysia Astor======================================
+#EXTINF:-1, group-title="TV Malaysia Astor" tvg-id="" tvg-logo="https://i.postimg.cc/wBFj2rLb/download-2024-01-19-T210746-192.png",Travel&Taste Malaysia
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.100 Safari/537.36
+https://068877e598224108a60fb9cd5db3717f.mediatailor.ap-southeast-1.amazonaws.com/v1/dash/7d6144f66f990e10fc667942d522b82f89ae5cd9/FAST_5_Ad/dash.mpd
+
+#EXTINF:-1, group-title="TV Malaysia Astor" tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5d/Sooka_Drama_Hotpot.png",Drama Hotpot Malaysia
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.100 Safari/537.36
+https://770c1b3657e94bc4b76ecd3e12882bcc.mediatailor.ap-southeast-1.amazonaws.com/v1/dash/7d6144f66f990e10fc667942d522b82f89ae5cd9/FAST_4_Ad/dash.mpd?aws.sessionId=58442df2-7820-4010-9a73-56381a7afe27
+
+#EXTINF:-1, group-title="TV Malaysia Astor" tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/cb/Sooka_Filem_Mantap.png",Filem Mantap Malaysia
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.100 Safari/537.36
+https://78470390525b4b03b023113696878114.mediatailor.ap-southeast-1.amazonaws.com/v1/dash/7d6144f66f990e10fc667942d522b82f89ae5cd9/FAST_2_Ad/dash.mpd?aws.sessionId=e5afa272-3bef-427f-9c68-976c25e8d27b
+
+#EXTINF:-1, group-title="TV Malaysia Astor" tvg-id="" tvg-logo="https://i.postimg.cc/QtgS6JVY/download-2024-01-19-T210328-208.png",Lawak Sentral Malaysia
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.100 Safari/537.36
+https://4940c5f69db24a558151436f708d5a69.mediatailor.ap-southeast-1.amazonaws.com/v1/dash/7d6144f66f990e10fc667942d522b82f89ae5cd9/FAST_3_Ad/dash.mpd?aws.sessionId=bd2627a3-77a3-4364-8072-da33bbff1c5e
+
+#EXTINF:-1, group-title="TV Malaysia Astor" tvg-id="" tvg-logo="https://i.postimg.cc/8CyTM6g2/download-2024-01-19-T210600-559.png",Drama Hebat Malaysia
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.100 Safari/537.36
+https://ce2388031147403ca25a81e56607a193.mediatailor.ap-southeast-1.amazonaws.com/v1/dash/7d6144f66f990e10fc667942d522b82f89ae5cd9/FAST_1_Ad/dash.mpd?aws.sessionId=44e175e1-eb16-4e7c-8aaa-e04e865974e9
+
+#EXTINF:-1 tvg-logo="https://linear-poster.astro.com.my/prod/logo/TV1_v1.png" group-title="TV Malaysia Astor",TV1 (Myfreeview Feed)
+https://d25tgymtnqzu8s.cloudfront.net/smil:tv1/manifest.mpd
+#EXTINF:-1 tvg-logo="https://linear-poster.astro.com.my/prod/logo/TV2_v1.png" group-title="TV Malaysia Astor",TV2 (Myfreeview Feed)
+https://d25tgymtnqzu8s.cloudfront.net/smil:tv2/manifest.mpd
+#EXTINF:-1 group-title="TV Malaysia Astor" ch-number="110" tvg-id="110" tvg-chno="110" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/467_144.png", TV Okey (MyFreeview Feed)
+https://d25tgymtnqzu8s.cloudfront.net/smil:okey/manifest.mpd
+#EXTINF:-1 group-title="TV Malaysia Astor" ch-number="111" tvg-id="111" tvg-chno="111" tvg-logo="https://i.ibb.co/JcTZMLX/image.png",Sukan RTM
+https://d25tgymtnqzu8s.cloudfront.net/smil:sukan/manifest.mpd
+#EXTINF:-1 group-title="TV Malaysia Astor" ch-number="113" tvg-id="113" tvg-chno="113" tvg-logo="https://i.ibb.co/vHcWdsP/image.png",TV6
+https://d25tgymtnqzu8s.cloudfront.net/smil:tv6/manifest.mpd
+#EXTINF:-1 tvg-logo="https://linear-poster.astro.com.my/prod/logo/Al-Hijrah_v1.png", group-title="TV Malaysia Astor",TV AlHijrah (MyFreeview Feed)
+https://172048-castr.akamaized.net/61e0e9a88ecf869e0a595bfa/live_8b9f457013db11ed850317f9f49848aa/index.fmp4.m3u8
+#EXTINF:-1 group-title="TV Malaysia Astor" ch-number="123" tvg-id="123" tvg-chno="123" tvg-logo="https://berita.rtm.gov.my/images/logobes.jpg",Berita RTM
+https://d25tgymtnqzu8s.cloudfront.net/smil:berita/manifest.mpd
+#EXTINF:-1 tvg-id="TVS" ch-number="122" group-title="TV Malaysia Astor" group-logo="https://aqfadtv.xyz/images/myfreeview_v3.png" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/429_144.png",122 TVS 
+https://stream.smg.my/live/tvs.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="MY001:TV 1" tvg-logo="" group-title="TV Malaysia Astor",MY001:TV 1
+http://muka03.wanicelife.com:8880/3ca7153n01/sdfr34r34/1734
+#EXTINF:-1 tvg-id="" tvg-name="MY002:TV 2" tvg-logo="" group-title="TV Malaysia Astor",MY002:TV 2
+http://muka03.wanicelife.com:8880/3ca7153n01/sdfr34r34/1733
+#EXTINF:-1 tvg-id="" tvg-name="MY003:TV 3" tvg-logo="" group-title="TV Malaysia Astor",MY003:TV 3
+http://muka03.wanicelife.com:8880/3ca7153n01/sdfr34r34/1732
+#EXTINF:-1 tvg-id="" tvg-name="MY004:NTV 7" tvg-logo="" group-title="TV Malaysia Astor",MY004:NTV 7
+http://muka03.wanicelife.com:8880/3ca7153n01/sdfr34r34/1731
+#EXTINF:-1 tvg-id="" tvg-name="MY005:TV 8" tvg-logo="" group-title="TV Malaysia Astor",MY005:TV 8
+http://muka03.wanicelife.com:8880/3ca7153n01/sdfr34r34/1730
+#EXTINF:-1 tvg-id="" tvg-name="MY006:TV 9" tvg-logo="" group-title="TV Malaysia Astor",MY006:TV 9
+http://muka03.wanicelife.com:8880/3ca7153n01/sdfr34r34/1729
+#EXTINF:-1 tvg-id="" tvg-name="MY007:QUAN JIA" tvg-logo="" group-title="TV Malaysia Astor",MY007:QUAN JIA
+http://muka03.wanicelife.com:8880/3ca7153n01/sdfr34r34/1728
+#EXTINF:-1 tvg-id="" tvg-name="MY008:SHUANG XING" tvg-logo="" group-title="TV Malaysia Astor",MY008:SHUANG XING
+http://muka03.wanicelife.com:8880/3ca7153n01/sdfr34r34/1727
+#EXTINF:-1 tvg-id="" tvg-name="MY009:Wah Lai Toi" tvg-logo="" group-title="TV Malaysia Astor",MY009:Wah Lai Toi
+http://muka03.wanicelife.com:8880/3ca7153n01/sdfr34r34/1726
+#EXTINF:-1 tvg-id="" tvg-name="MY010:HUA HEE DAI" tvg-logo="" group-title="TV Malaysia Astor",MY010:HUA HEE DAI
+http://muka03.wanicelife.com:8880/3ca7153n01/sdfr34r34/1725
+#EXTINF:-1 tvg-id="" tvg-name="MY011:AOD" tvg-logo="" group-title="TV Malaysia Astor",MY011:AOD
+http://muka03.wanicelife.com:8880/3ca7153n01/sdfr34r34/1724
+#EXTINF:-1 tvg-id="" tvg-name="MY012:AEC" tvg-logo="" group-title="TV Malaysia Astor",MY012:AEC
+http://muka03.wanicelife.com:8880/3ca7153n01/sdfr34r34/1723
+#EXTINF:-1 tvg-id="" tvg-name="MY013:Super Sport 1" tvg-logo="" group-title="TV Malaysia Astor",MY013:Super Sport 1
+http://muka03.wanicelife.com:8880/3ca7153n01/sdfr34r34/1722
+#EXTINF:-1 tvg-id="AstroSuperSport2.my" tvg-name="MY014:Super Sport 2" tvg-logo="" group-title="TV Malaysia Astor",MY014:Super Sport 2
+http://muka03.wanicelife.com:8880/3ca7153n01/sdfr34r34/1721
+#EXTINF:-1 tvg-id="AstroSuperSport3.my" tvg-name="MY015:Super Sport 3" tvg-logo="" group-title="TV Malaysia Astor",MY015:Super Sport 3
+http://muka03.wanicelife.com:8880/3ca7153n01/sdfr34r34/1720
+#EXTINF:-1 tvg-id="AstroSuperSport4.my" tvg-name="MY016:Super Sport 4" tvg-logo="" group-title="TV Malaysia Astor",MY016:Super Sport 4
+http://muka03.wanicelife.com:8880/3ca7153n01/sdfr34r34/1719
+#EXTINF:-1 tvg-id="" tvg-name="MY022:Super Sport 5" tvg-logo="" group-title="TV Malaysia Astor",MY022:Super Sport 5
+http://muka03.wanicelife.com:8880/3ca7153n01/sdfr34r34/1713
+#EXTINF:-1 tvg-id="" tvg-name="MY043:ASTRO ASSP4 HD" tvg-logo="" group-title="TV Malaysia Astor",MY043:ASTRO ASSP4 HD
+http://muka03.wanicelife.com:8880/3ca7153n01/sdfr34r34/59217
+#EXTINF:-1 tvg-id="" tvg-name="MY042:ASTRO ASSP3 HD" tvg-logo="" group-title="TV Malaysia Astor",MY042:ASTRO ASSP3 HD
+http://muka03.wanicelife.com:8880/3ca7153n01/sdfr34r34/59218
+#EXTINF:-1 tvg-id="" tvg-name="MY040:ASTRO ASSP HD" tvg-logo="" group-title="TV Malaysia Astor",MY040:ASTRO ASSP HD
+http://muka03.wanicelife.com:8880/3ca7153n01/sdfr34r34/59220
+#EXTINF:-1 tvg-id="" tvg-name="MY041:ASTRO ASSP2 HD" tvg-logo="" group-title="TV Malaysia Astor",MY041:ASTRO ASSP2 HD
+http://muka03.wanicelife.com:8880/3ca7153n01/sdfr34r34/59219
+#EXTINF:-1 tvg-id="" tvg-name="MY107:Astro SuperSport Events 6" tvg-logo="" group-title="TV Malaysia Astor",MY107:Astro SuperSport Events 6
+http://muka03.wanicelife.com:8880/3ca7153n01/sdfr34r34/71079
+#EXTINF:-1 tvg-id="" tvg-name="MY133:Astro Premier 2" tvg-logo="" group-title="TV Malaysia Astor",MY133:Astro Premier 2
+http://muka03.wanicelife.com:8880/3ca7153n01/sdfr34r34/71105
+#EXTINF:-1 tvg-id="" tvg-name="MY136:ASTRO Rugby Pass" tvg-logo="" group-title="TV Malaysia Astor",MY136:ASTRO Rugby Pass
+http://muka03.wanicelife.com:8880/3ca7153n01/sdfr34r34/71108
+#EXTINF:-1 tvg-id="" tvg-name="MY137:ASTRO Cricket" tvg-logo="" group-title="TV Malaysia Astor",MY137:ASTRO Cricket
+http://muka03.wanicelife.com:8880/3ca7153n01/sdfr34r34/71109
+#EXTINF:-1 tvg-id="" tvg-name="MY177:Astro SuperSport Events 3" tvg-logo="" group-title="TV Malaysia Astor",MY177:Astro SuperSport Events 3
+http://muka03.wanicelife.com:8880/3ca7153n01/sdfr34r34/71146
+#EXTINF:-1 tvg-id="" tvg-name="MY108:ASTRO Ceria" tvg-logo="" group-title="TV Malaysia Astor",MY108:ASTRO Ceria
+http://muka03.wanicelife.com:8880/3ca7153n01/sdfr34r34/71080
+#EXTINF:-1 tvg-id="" tvg-name="MY057:ASTRO Colors Tamil" tvg-logo="" group-title="TV Malaysia Astor",MY057:ASTRO Colors Tamil
+http://muka03.wanicelife.com:8880/3ca7153n01/sdfr34r34/71035
+#EXTINF:-1 tvg-id="" tvg-name="MY056:ASTRO Star Vijay" tvg-logo="" group-title="TV Malaysia Astor",MY056:ASTRO Star Vijay
+http://muka03.wanicelife.com:8880/3ca7153n01/sdfr34r34/71034
+#EXTINF:-1 tvg-id="" tvg-name="MY054:ASTRO Zee Tamil" tvg-logo="" group-title="TV Malaysia Astor",MY054:ASTRO Zee Tamil
+http://muka03.wanicelife.com:8880/3ca7153n01/sdfr34r34/71032
+#EXTINF:-1 tvg-id="" tvg-name="MY053:ASTRO Adithya" tvg-logo="" group-title="TV Malaysia Astor",MY053:ASTRO Adithya
+http://muka03.wanicelife.com:8880/3ca7153n01/sdfr34r34/71031
+#EXTINF:-1 tvg-id="" tvg-name="MY017:CELESTIAL" tvg-logo="" group-title="TV Malaysia Astor",MY017:CELESTIAL
+http://muka03.wanicelife.com:8880/3ca7153n01/sdfr34r34/1718
+#EXTINF:-1 tvg-id="" tvg-name="MY018:BERNAMA" tvg-logo="" group-title="TV Malaysia Astor",MY018:BERNAMA
+http://muka03.wanicelife.com:8880/3ca7153n01/sdfr34r34/1717
+#EXTINF:-1 tvg-id="" tvg-name="MY020:Star Chinese Channel" tvg-logo="" group-title="TV Malaysia Astor",MY020:Star Chinese Channel
+http://muka03.wanicelife.com:8880/3ca7153n01/sdfr34r34/1715
+#EXTINF:-1 tvg-id="" tvg-name="MY021:XIAO TAI YANG" tvg-logo="" group-title="TV Malaysia Astor",MY021:XIAO TAI YANG
+http://muka03.wanicelife.com:8880/3ca7153n01/sdfr34r34/1714
+#EXTINF:-1 tvg-id="" tvg-name="MY023:TVB CLASSIC" tvg-logo="" group-title="TV Malaysia Astor",MY023:TVB CLASSIC
+http://muka03.wanicelife.com:8880/3ca7153n01/sdfr34r34/1712
+#EXTINF:-1 tvg-id="" tvg-name="MY029:WARNA" tvg-logo="" group-title="TV Malaysia Astor",MY029:WARNA
+http://muka03.wanicelife.com:8880/3ca7153n01/sdfr34r34/1706
+#EXTINF:-1 tvg-id="" tvg-name="MY030:RIA" tvg-logo="" group-title="TV Malaysia Astor",MY030:RIA
+http://muka03.wanicelife.com:8880/3ca7153n01/sdfr34r34/1705
+#EXTINF:-1 tvg-id="" tvg-name="MY031:AWANI" tvg-logo="" group-title="TV Malaysia Astor",MY031:AWANI
+http://muka03.wanicelife.com:8880/3ca7153n01/sdfr34r34/1704
+#EXTINF:-1 tvg-id="" tvg-name="MY034:OASIS" tvg-logo="" group-title="TV Malaysia Astor",MY034:OASIS
+http://muka03.wanicelife.com:8880/3ca7153n01/sdfr34r34/1701
+#EXTINF:-1 tvg-id="" tvg-name="MY082:Singapore Channel 8" tvg-logo="" group-title="TV Malaysia Astor",MY082:Singapore Channel 8
+http://muka03.wanicelife.com:8880/3ca7153n01/sdfr34r34/71054
+#EXTINF:-1 tvg-id="" tvg-name="MY035:Singapore Suria" tvg-logo="" group-title="TV Malaysia Astor",MY035:Singapore Suria
+http://muka03.wanicelife.com:8880/3ca7153n01/sdfr34r34/1700
+#EXTINF:-1 tvg-id="" tvg-name="MY036:Singapore Vasantham" tvg-logo="" group-title="TV Malaysia Astor",MY036:Singapore Vasantham
+http://muka03.wanicelife.com:8880/3ca7153n01/sdfr34r34/1699
+#EXTINF:-1 tvg-id="" tvg-name="MY151:sukan" tvg-logo="" group-title="TV Malaysia Astor",MY151:sukan
+http://muka03.wanicelife.com:8880/3ca7153n01/sdfr34r34/71123
+#EXTINF:-1 tvg-id="" tvg-name="MY037:WWE" tvg-logo="" group-title="TV Malaysia Astor",MY037:WWE
+http://muka03.wanicelife.com:8880/3ca7153n01/sdfr34r34/1698
+#EXTINF:-1 tvg-id="MY38WSBK.us" tvg-name="MY038:BOO" tvg-logo="" group-title="TV Malaysia Astor",MY038:BOO
+http://muka03.wanicelife.com:8880/3ca7153n01/sdfr34r34/1697
+#EXTINF:-1 tvg-id="" tvg-name="MY042:Ria" tvg-logo="" group-title="TV Malaysia Astor",MY042:Ria
+http://muka03.wanicelife.com:8880/3ca7153n01/sdfr34r34/71020
+#EXTINF:-1 tvg-id="" tvg-name="MY043:Awesome TV" tvg-logo="" group-title="TV Malaysia Astor",MY043:Awesome TV
+http://muka03.wanicelife.com:8880/3ca7153n01/sdfr34r34/71021
+#EXTINF:-1 tvg-id="" tvg-name="MY046:TV ALHIJRAH" tvg-logo="" group-title="TV Malaysia Astor",MY046:TV ALHIJRAH
+http://muka03.wanicelife.com:8880/3ca7153n01/sdfr34r34/71024
+#EXTINF:-1 tvg-id="" tvg-name="MY047:aura" tvg-logo="" group-title="TV Malaysia Astor",MY047:aura
+http://muka03.wanicelife.com:8880/3ca7153n01/sdfr34r34/71025
+#EXTINF:-1 tvg-id="" tvg-name="MY048:Astro Premier 1" tvg-logo="" group-title="TV Malaysia Astor",MY048:Astro Premier 1
+http://muka03.wanicelife.com:8880/3ca7153n01/sdfr34r34/71026
+#EXTINF:-1 tvg-id="" tvg-name="MY049:KBSW" tvg-logo="" group-title="TV Malaysia Astor",MY049:KBSW
+http://muka03.wanicelife.com:8880/3ca7153n01/sdfr34r34/71027
+#EXTINF:-1 tvg-id="" tvg-name="MY050:GO SHOP" tvg-logo="" group-title="TV Malaysia Astor",MY050:GO SHOP
+http://muka03.wanicelife.com:8880/3ca7153n01/sdfr34r34/71028
+#EXTINF:-1 tvg-id="" tvg-name="MY051:Sun Music" tvg-logo="" group-title="TV Malaysia Astor",MY051:Sun Music
+http://muka03.wanicelife.com:8880/3ca7153n01/sdfr34r34/71029
+#EXTINF:-1 tvg-id="" tvg-name="MY052:TUTOR TV SK" tvg-logo="" group-title="TV Malaysia Astor",MY052:TUTOR TV SK
+http://muka03.wanicelife.com:8880/3ca7153n01/sdfr34r34/71030
+#EXTINF:-1 tvg-id="" tvg-name="MY055:Star Vijay Super" tvg-logo="" group-title="TV Malaysia Astor",MY055:Star Vijay Super
+http://muka03.wanicelife.com:8880/3ca7153n01/sdfr34r34/71033
+#EXTINF:-1 tvg-id="" tvg-name="MY058:SUN TV HD" tvg-logo="" group-title="TV Malaysia Astor",MY058:SUN TV HD
+http://muka03.wanicelife.com:8880/3ca7153n01/sdfr34r34/71036
+#EXTINF:-1 tvg-id="" tvg-name="MY059:HBO Hits" tvg-logo="" group-title="TV Malaysia Astor",MY059:HBO Hits
+http://muka03.wanicelife.com:8880/3ca7153n01/sdfr34r34/71037
+#EXTINF:-1 tvg-id="" tvg-name="MY060:iQIYI HD" tvg-logo="" group-title="TV Malaysia Astor",MY060:iQIYI HD
+http://muka03.wanicelife.com:8880/3ca7153n01/sdfr34r34/71038
+#EXTINF:-1 tvg-id="" tvg-name="MY061:GO SHOP 2" tvg-logo="" group-title="TV Malaysia Astor",MY061:GO SHOP 2
+http://muka03.wanicelife.com:8880/3ca7153n01/sdfr34r34/71039
+#EXTINF:-1 tvg-id="" tvg-name="MY067:TVB JADE" tvg-logo="" group-title="TV Malaysia Astor",MY067:TVB JADE
+http://muka03.wanicelife.com:8880/3ca7153n01/sdfr34r34/71040
+#EXTINF:-1 tvg-id="" tvg-name="MY069:CTI Asia" tvg-logo="" group-title="TV Malaysia Astor",MY069:CTI Asia
+http://muka03.wanicelife.com:8880/3ca7153n01/sdfr34r34/71042
+#EXTINF:-1 tvg-id="" tvg-name="MY070:TVB E-NEWS" tvg-logo="" group-title="TV Malaysia Astor",MY070:TVB E-NEWS
+http://muka03.wanicelife.com:8880/3ca7153n01/sdfr34r34/71043
+#EXTINF:-1 tvg-id="" tvg-name="MY071:TVB XING HE HD" tvg-logo="" group-title="TV Malaysia Astor",MY071:TVB XING HE HD
+http://muka03.wanicelife.com:8880/3ca7153n01/sdfr34r34/71044
+#EXTINF:-1 tvg-id="" tvg-name="MY072:TVBS ASIA HD" tvg-logo="" group-title="TV Malaysia Astor",MY072:TVBS ASIA HD
+http://muka03.wanicelife.com:8880/3ca7153n01/sdfr34r34/71045
+#EXTINF:-1 tvg-id="" tvg-name="MY073:CCM" tvg-logo="" group-title="TV Malaysia Astor",MY073:CCM
+http://muka03.wanicelife.com:8880/3ca7153n01/sdfr34r34/71046
+#EXTINF:-1 tvg-id="" tvg-name="MY075:CCTV4 HD" tvg-logo="" group-title="TV Malaysia Astor",MY075:CCTV4 HD
+http://muka03.wanicelife.com:8880/3ca7153n01/sdfr34r34/71047
+#EXTINF:-1 tvg-id="" tvg-name="MY076:AOD 352 HD" tvg-logo="" group-title="TV Malaysia Astor",MY076:AOD 352 HD
+http://muka03.wanicelife.com:8880/3ca7153n01/sdfr34r34/71048
+#EXTINF:-1 tvg-id="" tvg-name="MY077:AOD 353 HD" tvg-logo="" group-title="TV Malaysia Astor",MY077:AOD 353 HD
+http://muka03.wanicelife.com:8880/3ca7153n01/sdfr34r34/71049
+#EXTINF:-1 tvg-id="" tvg-name="MY078:AOD 354 HD" tvg-logo="" group-title="TV Malaysia Astor",MY078:AOD 354 HD
+http://muka03.wanicelife.com:8880/3ca7153n01/sdfr34r34/71050
+#EXTINF:-1 tvg-id="" tvg-name="MY079:AOD 355 HD" tvg-logo="" group-title="TV Malaysia Astor",MY079:AOD 355 HD
+http://muka03.wanicelife.com:8880/3ca7153n01/sdfr34r34/71051
+#EXTINF:-1 tvg-id="" tvg-name="MY080:KBS World HD" tvg-logo="" group-title="TV Malaysia Astor",MY080:KBS World HD
+http://muka03.wanicelife.com:8880/3ca7153n01/sdfr34r34/71052
+#EXTINF:-1 tvg-id="" tvg-name="MY081:ONE HD" tvg-logo="" group-title="TV Malaysia Astor",MY081:ONE HD
+http://muka03.wanicelife.com:8880/3ca7153n01/sdfr34r34/71053
+#EXTINF:-1 tvg-id="" tvg-name="MY083:TVN HD" tvg-logo="" group-title="TV Malaysia Astor",MY083:TVN HD
+http://muka03.wanicelife.com:8880/3ca7153n01/sdfr34r34/71055
+#EXTINF:-1 tvg-id="" tvg-name="MY084:Hits Movies HD" tvg-logo="" group-title="TV Malaysia Astor",MY084:Hits Movies HD
+http://muka03.wanicelife.com:8880/3ca7153n01/sdfr34r34/71056
+#EXTINF:-1 tvg-id="" tvg-name="MY086:Cinemax HD" tvg-logo="" group-title="TV Malaysia Astor",MY086:Cinemax HD
+http://muka03.wanicelife.com:8880/3ca7153n01/sdfr34r34/71058
+#EXTINF:-1 tvg-id="" tvg-name="MY087:TVN Movies" tvg-logo="" group-title="TV Malaysia Astor",MY087:TVN Movies
+http://muka03.wanicelife.com:8880/3ca7153n01/sdfr34r34/71059
+#EXTINF:-1 tvg-id="" tvg-name="MY088:OKEY TV" tvg-logo="" group-title="TV Malaysia Astor",MY088:OKEY TV
+http://muka03.wanicelife.com:8880/3ca7153n01/sdfr34r34/71060
+#EXTINF:-1 tvg-id="" tvg-name="MY089:Moonbug Kids" tvg-logo="" group-title="TV Malaysia Astor",MY089:Moonbug Kids
+http://muka03.wanicelife.com:8880/3ca7153n01/sdfr34r34/71061
+#EXTINF:-1 tvg-id="" tvg-name="MY091:AL JAZEERA HD" tvg-logo="" group-title="TV Malaysia Astor",MY091:AL JAZEERA HD
+http://muka03.wanicelife.com:8880/3ca7153n01/sdfr34r34/71063
+#EXTINF:-1 tvg-id="" tvg-name="MY092:SKY NEWS HD" tvg-logo="" group-title="TV Malaysia Astor",MY092:SKY NEWS HD
+http://muka03.wanicelife.com:8880/3ca7153n01/sdfr34r34/71064
+#EXTINF:-1 tvg-id="" tvg-name="MY093:CNA HD" tvg-logo="" group-title="TV Malaysia Astor",MY093:CNA HD
+http://muka03.wanicelife.com:8880/3ca7153n01/sdfr34r34/71065
+#EXTINF:-1 tvg-id="" tvg-name="MY094:CNBC" tvg-logo="" group-title="TV Malaysia Astor",MY094:CNBC
+http://muka03.wanicelife.com:8880/3ca7153n01/sdfr34r34/71066
+#EXTINF:-1 tvg-id="" tvg-name="MY095:Bloomberg TV" tvg-logo="" group-title="TV Malaysia Astor",MY095:Bloomberg TV
+http://muka03.wanicelife.com:8880/3ca7153n01/sdfr34r34/71067
+#EXTINF:-1 tvg-id="" tvg-name="MY096:ABC AUSTRALIA" tvg-logo="" group-title="TV Malaysia Astor",MY096:ABC AUSTRALIA
+http://muka03.wanicelife.com:8880/3ca7153n01/sdfr34r34/71068
+#EXTINF:-1 tvg-id="" tvg-name="MY097:8TV" tvg-logo="" group-title="TV Malaysia Astor",MY097:8TV
+http://muka03.wanicelife.com:8880/3ca7153n01/sdfr34r34/71069
+#EXTINF:-1 tvg-id="" tvg-name="MY099:Discovery HD" tvg-logo="" group-title="TV Malaysia Astor",MY099:Discovery HD
+http://muka03.wanicelife.com:8880/3ca7153n01/sdfr34r34/71071
+#EXTINF:-1 tvg-id="" tvg-name="MY100:DISCOVERY ASIA" tvg-logo="" group-title="TV Malaysia Astor",MY100:DISCOVERY ASIA
+http://muka03.wanicelife.com:8880/3ca7153n01/sdfr34r34/71072
+#EXTINF:-1 tvg-id="" tvg-name="MY101:Discovery Science" tvg-logo="" group-title="TV Malaysia Astor",MY101:Discovery Science
+http://muka03.wanicelife.com:8880/3ca7153n01/sdfr34r34/71073
+#EXTINF:-1 tvg-id="" tvg-name="MY102:HISTORY HD" tvg-logo="" group-title="TV Malaysia Astor",MY102:HISTORY HD
+http://muka03.wanicelife.com:8880/3ca7153n01/sdfr34r34/71074
+#EXTINF:-1 tvg-id="" tvg-name="MY103:ANIMAL PLANET HD" tvg-logo="" group-title="TV Malaysia Astor",MY103:ANIMAL PLANET HD
+http://muka03.wanicelife.com:8880/3ca7153n01/sdfr34r34/71075
+#EXTINF:-1 tvg-id="" tvg-name="MY104:TUTOR TV UPSR" tvg-logo="" group-title="TV Malaysia Astor",MY104:TUTOR TV UPSR
+http://muka03.wanicelife.com:8880/3ca7153n01/sdfr34r34/71076
+#EXTINF:-1 tvg-id="" tvg-name="MY106:TUTOR TV SMK" tvg-logo="" group-title="TV Malaysia Astor",MY106:TUTOR TV SMK
+http://muka03.wanicelife.com:8880/3ca7153n01/sdfr34r34/71078
+#EXTINF:-1 tvg-id="" tvg-name="MY112:Cartoon Network" tvg-logo="" group-title="TV Malaysia Astor",MY112:Cartoon Network
+http://muka03.wanicelife.com:8880/3ca7153n01/sdfr34r34/71084
+#EXTINF:-1 tvg-id="" tvg-name="MY113:NICKELODEON HD" tvg-logo="" group-title="TV Malaysia Astor",MY113:NICKELODEON HD
+http://muka03.wanicelife.com:8880/3ca7153n01/sdfr34r34/71085
+#EXTINF:-1 tvg-id="" tvg-name="MY114:NICK JR" tvg-logo="" group-title="TV Malaysia Astor",MY114:NICK JR
+http://muka03.wanicelife.com:8880/3ca7153n01/sdfr34r34/71086
+#EXTINF:-1 tvg-id="" tvg-name="MY115:AXN HD" tvg-logo="" group-title="TV Malaysia Astor",MY115:AXN HD
+http://muka03.wanicelife.com:8880/3ca7153n01/sdfr34r34/71087
+#EXTINF:-1 tvg-id="" tvg-name="MY116:Phoenix" tvg-logo="" group-title="TV Malaysia Astor",MY116:Phoenix
+http://muka03.wanicelife.com:8880/3ca7153n01/sdfr34r34/71088
+#EXTINF:-1 tvg-id="" tvg-name="MY117:HITS HD" tvg-logo="" group-title="TV Malaysia Astor",MY117:HITS HD
+http://muka03.wanicelife.com:8880/3ca7153n01/sdfr34r34/71089
+#EXTINF:-1 tvg-id="" tvg-name="MY118:TLC HD" tvg-logo="" group-title="TV Malaysia Astor",MY118:TLC HD
+http://muka03.wanicelife.com:8880/3ca7153n01/sdfr34r34/71090
+#EXTINF:-1 tvg-id="" tvg-name="MY119:FOOD NTWK HD" tvg-logo="" group-title="TV Malaysia Astor",MY119:FOOD NTWK HD
+http://muka03.wanicelife.com:8880/3ca7153n01/sdfr34r34/71091
+#EXTINF:-1 tvg-id="" tvg-name="MY120:AFN HD" tvg-logo="" group-title="TV Malaysia Astor",MY120:AFN HD
+http://muka03.wanicelife.com:8880/3ca7153n01/sdfr34r34/71092
+#EXTINF:-1 tvg-id="" tvg-name="MY122:WARNER TV" tvg-logo="" group-title="TV Malaysia Astor",MY122:WARNER TV
+http://muka03.wanicelife.com:8880/3ca7153n01/sdfr34r34/71094
+#EXTINF:-1 tvg-id="" tvg-name="MY123:Crime Investigation" tvg-logo="" group-title="TV Malaysia Astor",MY123:Crime Investigation
+http://muka03.wanicelife.com:8880/3ca7153n01/sdfr34r34/71095
+#EXTINF:-1 tvg-id="" tvg-name="MY124:HGTV HD" tvg-logo="" group-title="TV Malaysia Astor",MY124:HGTV HD
+http://muka03.wanicelife.com:8880/3ca7153n01/sdfr34r34/71096
+#EXTINF:-1 tvg-id="" tvg-name="MY125:DMAX HD" tvg-logo="" group-title="TV Malaysia Astor",MY125:DMAX HD
+http://muka03.wanicelife.com:8880/3ca7153n01/sdfr34r34/71097
+#EXTINF:-1 tvg-id="" tvg-name="MY126:COMEDY CENTRAL" tvg-logo="" group-title="TV Malaysia Astor",MY126:COMEDY CENTRAL
+http://muka03.wanicelife.com:8880/3ca7153n01/sdfr34r34/71098
+#EXTINF:-1 tvg-id="" tvg-name="MY127:MTV" tvg-logo="" group-title="TV Malaysia Astor",MY127:MTV
+http://muka03.wanicelife.com:8880/3ca7153n01/sdfr34r34/71099
+#EXTINF:-1 tvg-id="" tvg-name="MY128:ANIMAX" tvg-logo="" group-title="TV Malaysia Astor",MY128:ANIMAX
+http://muka03.wanicelife.com:8880/3ca7153n01/sdfr34r34/71100
+#EXTINF:-1 tvg-id="" tvg-name="MY129:bEIN Sports 3" tvg-logo="" group-title="TV Malaysia Astor",MY129:bEIN Sports 3
+http://muka03.wanicelife.com:8880/3ca7153n01/sdfr34r34/71101
+#EXTINF:-1 tvg-id="" tvg-name="MY132:beIN SPORTS" tvg-logo="" group-title="TV Malaysia Astor",MY132:beIN SPORTS
+http://muka03.wanicelife.com:8880/3ca7153n01/sdfr34r34/71104
+#EXTINF:-1 tvg-id="" tvg-name="MY134:EUROSPORT HD" tvg-logo="" group-title="TV Malaysia Astor",MY134:EUROSPORT HD
+http://muka03.wanicelife.com:8880/3ca7153n01/sdfr34r34/71106
+#EXTINF:-1 tvg-id="" tvg-name="MY135:GOLF CHANNEL HD" tvg-logo="" group-title="TV Malaysia Astor",MY135:GOLF CHANNEL HD
+http://muka03.wanicelife.com:8880/3ca7153n01/sdfr34r34/71107
+#EXTINF:-1 tvg-id="" tvg-name="MY139:KPLUS HD" tvg-logo="" group-title="TV Malaysia Astor",MY139:KPLUS HD
+http://muka03.wanicelife.com:8880/3ca7153n01/sdfr34r34/71111
+#EXTINF:-1 tvg-id="" tvg-name="MY140:DW HD" tvg-logo="" group-title="TV Malaysia Astor",MY140:DW HD
+http://muka03.wanicelife.com:8880/3ca7153n01/sdfr34r34/71112
+#EXTINF:-1 tvg-id="" tvg-name="MY141:FRANCE24 HD" tvg-logo="" group-title="TV Malaysia Astor",MY141:FRANCE24 HD
+http://muka03.wanicelife.com:8880/3ca7153n01/sdfr34r34/71113
+#EXTINF:-1 tvg-id="" tvg-name="MY146:beIN Sports 2" tvg-logo="" group-title="TV Malaysia Astor",MY146:beIN Sports 2
+http://muka03.wanicelife.com:8880/3ca7153n01/sdfr34r34/71118
+#EXTINF:-1 tvg-id="" tvg-name="MY147:BBC Earth HD" tvg-logo="" group-title="TV Malaysia Astor",MY147:BBC Earth HD
+http://muka03.wanicelife.com:8880/3ca7153n01/sdfr34r34/71119
+#EXTINF:-1 tvg-id="" tvg-name="MY148:BBC Lifestyle" tvg-logo="" group-title="TV Malaysia Astor",MY148:BBC Lifestyle
+http://muka03.wanicelife.com:8880/3ca7153n01/sdfr34r34/71120
+#EXTINF:-1 tvg-id="" tvg-name="MY150:BBC World News" tvg-logo="" group-title="TV Malaysia Astor",MY150:BBC World News
+http://muka03.wanicelife.com:8880/3ca7153n01/sdfr34r34/71122
+#EXTINF:-1 tvg-id="" tvg-name="MY164:Paramount Channel" tvg-logo="" group-title="TV Malaysia Astor",MY164:Paramount Channel
+http://muka03.wanicelife.com:8880/3ca7153n01/sdfr34r34/71135
+#EXTINF:-1 tvg-id="" tvg-name="MY166:Global Trekker" tvg-logo="" group-title="TV Malaysia Astor",MY166:Global Trekker
+http://muka03.wanicelife.com:8880/3ca7153n01/sdfr34r34/71137
+#EXTINF:-1 tvg-id="" tvg-name="MY168:SCM" tvg-logo="" group-title="TV Malaysia Astor",MY168:SCM
+http://muka03.wanicelife.com:8880/3ca7153n01/sdfr34r34/71138
+#EXTINF:-1 tvg-id="" tvg-name="MY169:SETi Chinese" tvg-logo="" group-title="TV Malaysia Astor",MY169:SETi Chinese
+http://muka03.wanicelife.com:8880/3ca7153n01/sdfr34r34/71139
+#EXTINF:-1 tvg-id="" tvg-name="MY178:SPOTV" tvg-logo="" group-title="TV Malaysia Astor",MY178:SPOTV
+http://muka03.wanicelife.com:8880/3ca7153n01/sdfr34r34/71147
+#EXTINF:-1 tvg-id="" tvg-name="MY179:TVS" tvg-logo="" group-title="TV Malaysia Astor",MY179:TVS
+http://muka03.wanicelife.com:8880/3ca7153n01/sdfr34r34/71148
+#EXTINF:-1 tvg-id="" tvg-name="MY180:Awesome TV" tvg-logo="" group-title="TV Malaysia Astor",MY180:Awesome TV
+http://muka03.wanicelife.com:8880/3ca7153n01/sdfr34r34/71149
+#EXTINF:-1 tvg-id="" tvg-name="MY019:Kix HD" tvg-logo="" group-title="TV Malaysia Astor",MY019:Kix HD
+http://muka03.wanicelife.com:8880/3ca7153n01/sdfr34r34/1716
