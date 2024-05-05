@@ -4840,3 +4840,909 @@ http://muka03.wanicelife.com:8880/3ca7153n01/sdfr34r34/71148
 http://muka03.wanicelife.com:8880/3ca7153n01/sdfr34r34/71149
 #EXTINF:-1 tvg-id="" tvg-name="MY019:Kix HD" tvg-logo="" group-title="TV Malaysia Astor",MY019:Kix HD
 http://muka03.wanicelife.com:8880/3ca7153n01/sdfr34r34/1716
+
+
+
+
+#EXTINF:-1 group-logo="https://images.bisnis.com/posts/2020/04/02/1221683/vidio1.jpg" group-title="VIDOVIL"
+#EXTINF:-1 group-title="VIDOVIL" tvg-logo="https://thumbor.prod.vidiocdn.com/XBqGTlMWJaY48osD8s4I1ZJPngA=/112x112/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/204/4e9f5c.png", SCTV
+#EXTVLCOPT:http-referrer=https://www.vidio.com/ 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36 
+https://cikgusuraya.tech/vidio/index.php?id=204&type=hls
+
+#EXTINF:-1 group-title="VIDOVIL" tvg-logo="https://thumbor.prod.vidiocdn.com/PHV9N6KXPk1NUNLlANF996glEzc=/112x112/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/205/54ab19.png", Indosiar
+#EXTVLCOPT:http-referrer=https://www.vidio.com/ 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36 
+https://cikgusuraya.tech/vidio/index.php?id=205-indosiar&type=hls
+
+#EXTINF:-1 group-title="VIDOVIL" tvg-logo="https://thumbor.prod.vidiocdn.com/oh6LOZR66hu5ikDl01oejOaQRjs=/112x112/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/206/1823dc.png", Moji
+#EXTVLCOPT:http-referrer=https://www.vidio.com/ 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36 
+https://cikgusuraya.tech/vidio/index.php?id=206&type=hls
+
+#EXTINF:-1 group-title="VIDOVIL" tvg-logo="https://thumbor.prod.vidiocdn.com/oh6LOZR66hu5ikDl01oejOaQRjs=/112x112/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/206/1823dc.png", MOJI EVENT
+#EXTVLCOPT:http-referrer=https://www.vidio.com/ 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36 
+https://cikgusuraya.tech/vidio/index.php?id=17252-pln-mobile-proliga-2024&type=hls
+
+#EXTINF:-1 group-title="VIDOVIL" tvg-logo="https://thumbor.prod.vidiocdn.com/XLhKDFI8G-sL8J2vVg5vHla7ovM=/112x112/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/733/ecaa60.png", TRANS TV
+#EXTVLCOPT:http-referrer=https://www.vidio.com/ 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36 
+https://cikgusuraya.tech/vidio/index.php?id=733&type=hls
+
+#EXTINF:-1 group-title="VIDOVIL" tvg-logo="https://thumbor.prod.vidiocdn.com/U38BeE-y8dWcgQjBYMKY-Nfd_fg=/112x112/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/734/131514.png", Trans7
+#EXTVLCOPT:http-referrer=https://www.vidio.com/ 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36 
+https://cikgusuraya.tech/vidio/index.php?id=734&type=hls&token=05
+
+#EXTINF:-1 group-title="VIDOVIL" tvg-logo="https://thumbor.prod.vidiocdn.com/RIEYY6xRlnSBkwYl3ysbEDoCQmk=/112x112/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/783/07750c.png", TVOne
+#EXTVLCOPT:http-referrer=https://www.vidio.com/ 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36 
+https://cikgusuraya.tech/vidio/index.php?id=783&type=hls&token=05
+
+#EXTINF:-1 group-title="VIDOVIL" tvg-logo="https://thumbor.prod.vidiocdn.com/ie0dsrnpCuMgM2ChvdnDkrAei90=/112x112/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/782/e1af8b.png", ANTV
+#EXTVLCOPT:http-referrer=https://www.vidio.com/ 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36 
+https://cikgusuraya.tech/vidio/index.php?id=782&type=hls&token=05
+
+#EXTINF:-1 group-title="VIDOVIL" tvg-logo="https://thumbor.prod.vidiocdn.com/L8ojsXDCSAn4TDoSJrqr8xqMRy8=/112x112/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/777/ea8483.png", Metro TV
+#EXTVLCOPT:http-referrer=https://www.vidio.com/ 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36 
+https://cikgusuraya.tech/vidio/index.php?id=777&type=hls&token=05
+
+#EXTINF:-1 group-title="VIDOVIL" tvg-logo="https://thumbor.prod.vidiocdn.com/PPmP4ZZL9zYXq23d2ltlo8LYChQ=/112x112/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/874/042ca3.png", Kompas TV
+#EXTVLCOPT:http-referrer=https://www.vidio.com/ 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36 
+https://cikgusuraya.tech/vidio/index.php?id=874&type=hls&token=05
+
+#EXTINF:-1 group-title="VIDOVIL" tvg-logo="https://thumbor.prod.vidiocdn.com/NEU5NOM51mtJVYE4bI4iP2bLSCs=/112x112/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/1561/665aea.png", RTV
+#EXTVLCOPT:http-referrer=https://www.vidio.com/ 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36 
+https://cikgusuraya.tech/vidio/index.php?id=1561&type=hls&token=05
+
+#EXTINF:-1 group-title="VIDOVIL" tvg-logo="https://thumbor.prod.vidiocdn.com/CHQ7jG2pWgk7OSBt-Sw8ZK1MB9U=/112x112/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/6441/528cc9.png", TVRI
+#EXTVLCOPT:http-referrer=https://www.vidio.com/ 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36 
+https://cikgusuraya.tech/vidio/index.php?id=6441&type=hls&token=05
+
+#EXTINF:-1 group-title="VIDOVIL" tvg-logo="https://thumbor.prod.vidiocdn.com/DKANEUKIVCBG1x62TxXS33Tue0g=/112x112/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/6165/a712b0.png", BTV
+#EXTVLCOPT:http-referrer=https://www.vidio.com/ 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36 
+https://cikgusuraya.tech/vidio/index.php?id=6165&type=hls&token=05
+
+#EXTINF:-1 group-title="VIDOVIL" tvg-logo="https://thumbor.prod.vidiocdn.com/1z_3ZItS3609Ex_kO9iC_PXyIXw=/112x112/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/875/cfcc85.png", NET TV
+#EXTVLCOPT:http-referrer=https://www.vidio.com/ 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36 
+https://cikgusuraya.tech/vidio/index.php?id=875&type=hls&token=05
+
+#EXTINF:-1 group-title="VIDOVIL" tvg-logo="https://thumbor.prod.vidiocdn.com/qyk6RzFNDnT8Nh103ZvffR88YWw=/112x112/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/5415/802b76.png", Jaktv
+#EXTVLCOPT:http-referrer=https://www.vidio.com/ 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36 
+https://cikgusuraya.tech/vidio/index.php?id=5415&type=hls&token=05
+
+#EXTINF:-1 group-title="VIDOVIL" tvg-logo="https://thumbor.prod.vidiocdn.com/hidQqxmsKQvYJ4P5rkueZsbl__A=/112x112/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/6482/e83fcf.png", DAAI TV
+#EXTVLCOPT:http-referrer=https://www.vidio.com/ 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36 
+https://cikgusuraya.tech/vidio/index.php?id=6482&type=hls&token=05
+
+#EXTINF:-1 group-title="VIDOVIL" tvg-logo="https://thumbor.prod.vidiocdn.com/jRXTcft4R8nvv-MAtpXEyrSV7XU=/112x112/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/7432/bfecbc.png", Nusantara TV
+#EXTVLCOPT:http-referrer=https://www.vidio.com/ 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36 
+https://cikgusuraya.tech/vidio/index.php?id=7432&type=hls&token=05
+
+#EXTINF:-1 group-title="VIDOVIL" tvg-logo="https://thumbor.prod.vidiocdn.com/4e5Dt47oZTCIE5dkUP2DwFl_bd8=/112x112/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/9713/a11faf.png", JTV
+#EXTVLCOPT:http-referrer=https://www.vidio.com/ 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36 
+https://cikgusuraya.tech/vidio/index.php?id=9713&type=hls&token=05
+
+#EXTINF:-1 group-title="VIDOVIL" tvg-logo="https://thumbor.prod.vidiocdn.com/tImFFkaMktXuC3K0WfZroQ_PDS0=/112x112/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/9714/bfda90.png", JPM TV
+#EXTVLCOPT:http-referrer=https://www.vidio.com/ 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36 
+https://cikgusuraya.tech/vidio/index.php?id=9714&type=hls&token=05
+
+#EXTINF:-1 group-title="VIDOVIL" tvg-logo="https://thumbor.prod.vidiocdn.com/7kJVJ57eVLHgT7sXJ-qPJi7HUC4=/112x112/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/8815/f0c9f2.png", Metro Globe Network
+#EXTVLCOPT:http-referrer=https://www.vidio.com/ 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36 
+https://cikgusuraya.tech/vidio/index.php?id=8815&type=hls
+
+#EXTINF:-1 group-title="VIDOVIL" tvg-logo="https://thumbor.prod.vidiocdn.com/oVgHHmQei40opkprWzG7erORTpc=/112x112/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/6362/dcd434.png", TVN
+#EXTVLCOPT:http-referrer=https://www.vidio.com/ 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36 
+https://cikgusuraya.tech/vidio/index.php?id=6362&type=hls&token=05
+
+#EXTINF:-1 group-title="VIDOVIL" tvg-logo="https://thumbor.prod.vidiocdn.com/G8DFCpHw64-180V638Xfu0C0Zng=/112x112/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/7619/379f71.png", MUSICA
+#EXTVLCOPT:http-referrer=https://www.vidio.com/ 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36 
+https://cikgusuraya.tech/vidio/index.php?id=7619&type=hls&token=05
+
+#EXTINF:-1 group-title="VIDOVIL" tvg-logo="https://thumbor.prod.vidiocdn.com/qFHtu3jH8fCY4AJeQJqavmV-3mg=/112x112/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/6399/84f7c4.png", Zee Bioskop
+#EXTVLCOPT:http-referrer=https://www.vidio.com/ 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36 
+https://cikgusuraya.tech/vidio/index.php?id=6399&type=hls&token=05
+
+#EXTINF:-1 group-title="VIDOVIL" tvg-logo="https://thumbor.prod.vidiocdn.com/SBA2A3aIpB-X9KqPXj5zr-QQQTQ=/112x112/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/6504/d227d2.png", Fashion TV Midnight Secrets
+#EXTVLCOPT:http-referrer=https://www.vidio.com/ 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36 
+https://cikgusuraya.tech/vidio/index.php?id=6504&type=hls&token=05
+
+#EXTINF:-1 group-title="VIDOVIL" tvg-logo="https://thumbor.prod.vidiocdn.com/2Y97SNyJjIVnLM-XKkKyJOglFuU=/112x112/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/8241/2d8b11.jpg", RANS Channel
+#EXTVLCOPT:http-referrer=https://www.vidio.com/ 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36 
+https://cikgusuraya.tech/vidio/index.php?id=8241&type=hls&token=05
+
+#EXTINF:-1 group-title="VIDOVIL" tvg-logo="https://thumbor.prod.vidiocdn.com/7eHBnFC71jC6uTY8UKEGhnd77cc=/112x112/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/10975/0dc2d8.png", Elshinta TV
+#EXTVLCOPT:http-referrer=https://www.vidio.com/ 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36 
+https://cikgusuraya.tech/vidio/index.php?id=10975&type=hls&token=05
+
+#EXTINF:-1 group-title="VIDOVIL" tvg-logo="https://thumbor.prod.vidiocdn.com/M86RraxZ0ZP4NnxvbwVBOCXaZ9M=/112x112/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/7230/7d6bf5.jpg", Magna TV
+#EXTVLCOPT:http-referrer=https://www.vidio.com/ 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36 
+https://cikgusuraya.tech/vidio/index.php?id=7230&type=hls&token=05
+
+#EXTINF:-1 group-title="VIDOVIL" tvg-logo="https://thumbor.prod.vidiocdn.com/TYz1iEMEY8j8eVj7vKhHjk0xzyc=/112x112/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/6410/6027db.png", Aljazeera
+#EXTVLCOPT:http-referrer=https://www.vidio.com/ 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36 
+https://cikgusuraya.tech/vidio/index.php?id=6410&type=hls&token=05
+
+#EXTINF:-1 group-title="VIDOVIL" tvg-logo="https://thumbor.prod.vidiocdn.com/JdB3e-i8Ed6vVcdiQqbxoTB23c8=/112x112/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/5075/f6106b.png", DW English
+#EXTVLCOPT:http-referrer=https://www.vidio.com/ 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36 
+https://cikgusuraya.tech/vidio/index.php?id=5075&type=hls&token=05
+
+#EXTINF:-1 group-title="VIDOVIL" tvg-logo="https://thumbor.prod.vidiocdn.com/3rPJsyH0az_3cBgk1BvxRGBL7_0=/112x112/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/7150/2de77e.png", ABC Australia
+#EXTVLCOPT:http-referrer=https://www.vidio.com/ 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36 
+https://cikgusuraya.tech/vidio/index.php?id=7150&type=hls&token=05
+
+#EXTINF:-1 group-title="VIDOVIL" tvg-logo="https://thumbor.prod.vidiocdn.com/B4HwqUWN0oH-YMYGENNykOpyh0k=/112x112/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/7968/3f44ff.png", NHK World Japan
+#EXTVLCOPT:http-referrer=https://www.vidio.com/ 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36 
+https://cikgusuraya.tech/vidio/index.php?id=7968&type=hls&token=05
+
+#EXTINF:-1 group-title="VIDOVIL" tvg-logo="https://thumbor.prod.vidiocdn.com/8EdLDy7Zwk9-_U5IWUefcLEm8eE=/112x112/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/6411/e600b8.jpg", News Asia
+#EXTVLCOPT:http-referrer=https://www.vidio.com/ 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36 
+https://cikgusuraya.tech/vidio/index.php?id=6411&type=hls&token=05
+
+#EXTINF:-1 group-title="VIDOVIL" tvg-logo="https://thumbor.prod.vidiocdn.com/DCG-bJNyuLTksVHrqarPTAtwvco=/112x112/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/12784/b75a42.png", AFRICANEWS TV
+#EXTVLCOPT:http-referrer=https://www.vidio.com/ 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36 
+https://cikgusuraya.tech/vidio/index.php?id=12784&type=hls&token=05
+
+#EXTINF:-1 group-title="VIDOVIL" tvg-logo="https://thumbor.prod.vidiocdn.com/gztJpm4gLtmc54mzORdCSFVOjgY=/112x112/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/7687/b25cb7.jpg", SEA TODAY
+#EXTVLCOPT:http-referrer=https://www.vidio.com/ 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36 
+https://cikgusuraya.tech/vidio/index.php?id=7687&type=hls&token=05
+
+#EXTINF:-1 group-title="VIDOVIL" tvg-logo="https://thumbor.prod.vidiocdn.com/FsrcmE5ettOMsnfzELxgtPUGOHc=/112x112/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/6412/c0e105.png", Euro News
+#EXTVLCOPT:http-referrer=https://www.vidio.com/ 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36 
+https://cikgusuraya.tech/vidio/index.php?id=6412&type=hls&token=05
+
+#EXTINF:-1 group-title="VIDOVIL" tvg-logo="https://thumbor.prod.vidiocdn.com/mRMAbs0J1ALPfyniEi1L89cAqAA=/112x112/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/7946/9e2b5e.jpg", TV Tempo
+#EXTVLCOPT:http-referrer=https://www.vidio.com/ 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36 
+https://cikgusuraya.tech/vidio/index.php?id=7946&type=hls&token=05
+
+#EXTINF:-1 group-title="VIDOVIL" tvg-logo="https://thumbor.prod.vidiocdn.com/NlKuedj4cpv-SrNGEi26Ce4AFd4=/112x112/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/8237/18585d.png", Mentari TV
+#EXTVLCOPT:http-referrer=https://www.vidio.com/ 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36 
+https://cikgusuraya.tech/vidio/index.php?id=8237&type=hls&token=05
+
+#EXTINF:-1 group-title="VIDOVIL" tvg-logo="https://thumbor.prod.vidiocdn.com/I6-4SXyxld-IPtEgXkXaHIOrw74=/112x112/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/6533/f6c9c0.png", Zoomoo
+#EXTVLCOPT:http-referrer=https://www.vidio.com/ 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36 
+https://cikgusuraya.tech/vidio/index.php?id=6533&type=hls&token=05
+
+#EXTINF:-1 group-title="VIDOVIL" tvg-logo="https://thumbor.prod.vidiocdn.com/-vUtTKf6ogRcvcjURJn62-m-eCU=/112x112/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/7052/63032e.png", Hip Hip Horee!
+#EXTVLCOPT:http-referrer=https://www.vidio.com/ 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36 
+https://cikgusuraya.tech/vidio/index.php?id=7052&type=hls&token=05
+
+#EXTINF:-1 group-title="VIDOVIL" tvg-logo="https://thumbor.prod.vidiocdn.com/PQBfpwpTbQWZDJLLK5REbICdg-g=/112x112/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/6397/d422cd.png", Horee
+#EXTVLCOPT:http-referrer=https://www.vidio.com/ 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36 
+https://cikgusuraya.tech/vidio/index.php?id=6397&type=hls&token=05
+
+#EXTINF:-1 group-title="VIDOVIL" tvg-logo="https://thumbor.prod.vidiocdn.com/vOv_y7LMPnSEX0KlJSnADdHndFI=/112x112/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/7464/e69965.png", AJWA TV
+#EXTVLCOPT:http-referrer=https://www.vidio.com/ 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36 
+https://cikgusuraya.tech/vidio/index.php?id=7464&type=hls&token=05
+
+#EXTINF:-1 group-title="VIDOVIL" tvg-logo="https://thumbor.prod.vidiocdn.com/NMGm2f1Xkhy916g4LPLB3wDGc5Y=/112x112/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/6852/1047bc.png", Makkah TV
+#EXTVLCOPT:http-referrer=https://www.vidio.com/ 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36 
+https://cikgusuraya.tech/vidio/index.php?id=6852&type=hls&token=05
+
+#EXTINF:-1 group-title="VIDOVIL" tvg-logo="https://thumbor.prod.vidiocdn.com/SpjuzVoKdUo7lxmN6URPI4QEvEQ=/112x112/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/12607/2c48ce.png", Tawaf TV
+#EXTVLCOPT:http-referrer=https://www.vidio.com/ 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36 
+https://cikgusuraya.tech/vidio/index.php?id=12607&type=hls&token=05
+
+#EXTINF:-1 group-title="VIDOVIL" tvg-logo="https://thumbor.prod.vidiocdn.com/n39JFranf5fBu5vMktAMRTennFo=/112x112/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/6853/de1a7c.png", Reformed 21 TV
+#EXTVLCOPT:http-referrer=https://www.vidio.com/ 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36 
+https://cikgusuraya.tech/vidio/index.php?id=6853&type=hls&token=05
+
+#EXTINF:-1 group-title="VIDOVIL" tvg-logo="https://thumbor.prod.vidiocdn.com/ZK3MJggjRhLH9fHevY-qg-HNvho=/112x112/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/6898/7e119a.png", U-Channel TV
+#EXTVLCOPT:http-referrer=https://www.vidio.com/ 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36 
+https://cikgusuraya.tech/vidio/index.php?id=6898&type=hls&token=05
+
+#EXTINF:-1 group-title="VIDOVIL" tvg-logo="https://thumbor.prod.vidiocdn.com/LXg-Kd3Sea2o60Wvw82XXsnzTUw=/112x112/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/7004/12f134.png", Prambors On Air
+#EXTVLCOPT:http-referrer=https://www.vidio.com/ 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36 
+https://cikgusuraya.tech/vidio/index.php?id=7004&type=hls&token=05
+
+#EXTINF:-1 group-title="VIDOVIL" tvg-logo="https://thumbor.prod.vidiocdn.com/xpFtUOUrkJU8WgXFlfmsdM45G2M=/112x112/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/7092/1f3060.jpg", Delta FM
+#EXTVLCOPT:http-referrer=https://www.vidio.com/ 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36 
+https://cikgusuraya.tech/vidio/index.php?id=7092&type=hls&token=05
+
+#EXTINF:-1 group-title="VIDOVIL" tvg-logo="https://thumbor.prod.vidiocdn.com/AGSkkliQl1xAxbUgYfUw9WkqsNA=/112x112/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/7057/4fe373.png", i-Radio
+#EXTVLCOPT:http-referrer=https://www.vidio.com/ 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36 
+https://cikgusuraya.tech/vidio/index.php?id=7057&type=hls&token=05
+
+#EXTINF:-1 group-title="VIDOVIL" tvg-logo="https://thumbor.prod.vidiocdn.com/Tr0Vuh-AYGAtQrJfkitEO3cQIpc=/112x112/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/7443/36d403.jpg", Gen FM Jakarta
+#EXTVLCOPT:http-referrer=https://www.vidio.com/ 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36 
+https://cikgusuraya.tech/vidio/index.php?id=7443&type=hls&token=05
+
+#EXTINF:-1 group-title="VIDOVIL" tvg-logo="https://thumbor.prod.vidiocdn.com/QoRkZfbTP6mpweD_Xf0WuMjHEvM=/112x112/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/7166/84b749.png", Elshinta 90 FM
+#EXTVLCOPT:http-referrer=https://www.vidio.com/ 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36 
+https://cikgusuraya.tech/vidio/index.php?id=7166&type=hls&token=05
+
+#EXTINF:-1 group-title="VIDOVIL" tvg-logo="https://thumbor.prod.vidiocdn.com/gu1cRhrShOpVQqNnw-0SEJEUPvY=/112x112/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/7445/308abe.jpg", Kis FM
+#EXTVLCOPT:http-referrer=https://www.vidio.com/ 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36 
+https://cikgusuraya.tech/vidio/index.php?id=7445&type=hls&token=05
+
+#EXTINF:-1 group-title="VIDOVIL" tvg-logo="https://thumbor.prod.vidiocdn.com/vqV0em60m9YJLIWRfKUUcpRZqc8=/112x112/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/7449/c40e40.jpg", Jak FM
+#EXTVLCOPT:http-referrer=https://www.vidio.com/ 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36 
+https://cikgusuraya.tech/vidio/index.php?id=7449&type=hls&token=05
+
+#EXTINF:-1 group-title="VIDOVIL" tvg-logo="https://thumbor.prod.vidiocdn.com/DRRtBDeg9-cADQG8TD-Gw8cJWuo=/112x112/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/7053/821869.png", Hard Rock FM
+#EXTVLCOPT:http-referrer=https://www.vidio.com/ 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36 
+https://cikgusuraya.tech/vidio/index.php?id=7053&type=hls&token=05
+
+#EXTINF:-1 group-title="VIDOVIL" tvg-logo="https://thumbor.prod.vidiocdn.com/DFIwReKQP-55TQQwrqHxSxtlXbc=/112x112/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/7184/82e833.png", Ardan Radio
+#EXTVLCOPT:http-referrer=https://www.vidio.com/ 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36 
+https://cikgusuraya.tech/vidio/index.php?id=7184&type=hls&token=05
+
+#EXTINF:-1 group-title="VIDOVIL" tvg-logo="https://thumbor.prod.vidiocdn.com/3mL1lXVwRRg6gcZP4jBj4A8wkdU=/112x112/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/7091/7310fe.png", Bahana FM
+#EXTVLCOPT:http-referrer=https://www.vidio.com/ 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36 
+https://cikgusuraya.tech/vidio/index.php?id=7091&type=hls&token=05
+
+#EXTINF:-1 group-title="VIDOVIL" tvg-logo="https://thumbor.prod.vidiocdn.com/C1LFaP5N3iB90Fj-kA3RLgW-ED8=/112x112/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/7130/b207ab.png", Female FM
+#EXTVLCOPT:http-referrer=https://www.vidio.com/ 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36 
+https://cikgusuraya.tech/vidio/index.php?id=7130&type=hls&token=05
+
+#EXTINF:-1 group-title="VIDOVIL" tvg-logo="https://thumbor.prod.vidiocdn.com/sOXQH-l9f0-nm0MoLmf9b-NXbL0=/112x112/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/12237/946b88.png", Sonora Radio
+#EXTVLCOPT:http-referrer=https://www.vidio.com/ 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36 
+https://cikgusuraya.tech/vidio/index.php?id=12237&type=hls&token=05
+
+#EXTINF:-1 group-title="VIDOVIL" tvg-logo="https://thumbor.prod.vidiocdn.com/0jlTt_UHGdQBTHXGlbysK84Mxo4=/112x112/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/7448/529568.jpg", Hot FM
+#EXTVLCOPT:http-referrer=https://www.vidio.com/ 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36 
+https://cikgusuraya.tech/vidio/index.php?id=7448&type=hls&token=05
+
+#EXTINF:-1 group-title="VIDOVIL" tvg-logo="https://thumbor.prod.vidiocdn.com/oCNfF7rqvp-8_gPT5hxwsG1-2Wc=/112x112/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/7242/d12a5d.png", Dahlia FM
+#EXTVLCOPT:http-referrer=https://www.vidio.com/ 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36 
+https://cikgusuraya.tech/vidio/index.php?id=7242&type=hls&token=05
+
+#EXTINF:-1 group-title="VIDOVIL" tvg-logo="https://thumbor.prod.vidiocdn.com/_OBkJ9YJ0y1lkVWV4am4TwFIVac=/112x112/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/7248/930ad0.png", SWARAGAMA FM Jogja !
+#EXTVLCOPT:http-referrer=https://www.vidio.com/ 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36 
+https://cikgusuraya.tech/vidio/index.php?id=7248&type=hls&token=05
+
+#EXTINF:-1 group-title="VIDOVIL" tvg-logo="https://thumbor.prod.vidiocdn.com/sfgFK3eu9EQhJ4n5fszi9cv2YMo=/112x112/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/7447/a2ecab.jpg", Mustang FM
+#EXTVLCOPT:http-referrer=https://www.vidio.com/ 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36 
+https://cikgusuraya.tech/vidio/index.php?id=7447&type=hls&token=05
+
+
+#EXTINF:-1 group-title="VIDOVIL" tvg-logo="https://thumbor.prod.vidiocdn.com/pc7aRlA9-qFJKEB7on5ZRwnSrno=/112x112/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/7054/f4bb0d.png", Brava Radio
+#EXTVLCOPT:http-referrer=https://www.vidio.com/ 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36 
+https://cikgusuraya.tech/vidio/index.php?id=7054&type=hls&token=05
+
+#EXTINF:-1 group-title="VIDOVIL" tvg-logo="https://thumbor.prod.vidiocdn.com/PoN6vxEU6Xmtz2oPr0K-barLDHA=/112x112/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/7684/761fe4.jpg", Rama FM
+#EXTVLCOPT:http-referrer=https://www.vidio.com/ 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36 
+https://cikgusuraya.tech/vidio/index.php?id=7684&type=hls&token=05
+
+#EXTINF:-1 group-title="VIDOVIL" tvg-logo="https://thumbor.prod.vidiocdn.com/10K-qtWqvB_cn5bMnR9ukhCHqk8=/112x112/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/7169/612bbf.png", ELGANGGA
+#EXTVLCOPT:http-referrer=https://www.vidio.com/ 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36 
+https://cikgusuraya.tech/vidio/index.php?id=7169&type=hls&token=05
+
+#EXTINF:-1 group-title="VIDOVIL" tvg-logo="https://thumbor.prod.vidiocdn.com/0rBf7JkzYfTHTa3o9RQEldasLvc=/112x112/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/7055/dd2884.jpg", TRAX
+#EXTVLCOPT:http-referrer=https://www.vidio.com/ 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36 
+https://cikgusuraya.tech/vidio/index.php?id=7055&type=hls&token=05
+
+#EXTINF:-1 group-title="VIDOVIL" tvg-logo="https://thumbor.prod.vidiocdn.com/4ZrXRMohM3OGQMiHNMytPq4GR_0=/112x112/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/7284/0cf751.png", GAJAHMADA
+#EXTVLCOPT:http-referrer=https://www.vidio.com/ 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36 
+https://cikgusuraya.tech/vidio/index.php?id=7284&type=hls&token=05
+
+#EXTINF:-1 group-title="VIDOVIL" tvg-logo="https://thumbor.prod.vidiocdn.com/G7nOmwwoccTytycQmFld7G17wQw=/112x112/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/7446/c06718.jpg", Gen FM Surabaya
+#EXTVLCOPT:http-referrer=https://www.vidio.com/ 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36 
+https://cikgusuraya.tech/vidio/index.php?id=7446&type=hls&token=05
+
+#EXTINF:-1 group-title="VIDOVIL" tvg-logo="https://thumbor.prod.vidiocdn.com/iCqqGcjt5FQucS3zEj18yrI8GSM=/112x112/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/12238/a47b4b.png", Motion Radio
+#EXTVLCOPT:http-referrer=https://www.vidio.com/ 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36 
+https://cikgusuraya.tech/vidio/index.php?id=12238&type=hls&token=05
+
+#EXTINF:-1 group-title="VIDOVIL" tvg-logo="https://thumbor.prod.vidiocdn.com/Ap8e9iNBe0scow3b10YaIqgoVsA=/112x112/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/15670/d6e1a4.png", Elfara FM Malang
+#EXTVLCOPT:http-referrer=https://www.vidio.com/ 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36 
+https://cikgusuraya.tech/vidio/index.php?id=15670&type=hls&token=05
+
+#EXTINF:-1 group-title="VIDOVIL" tvg-logo="https://thumbor.prod.vidiocdn.com/EtHiXji1fId9yRqlPNgdrQi7ezY=/112x112/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/7281/207c75.png", Imelda FM
+#EXTVLCOPT:http-referrer=https://www.vidio.com/ 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36 
+https://cikgusuraya.tech/vidio/index.php?id=7281&type=hls&token=05
+
+#EXTINF:-1 group-title="VIDOVIL" tvg-logo="https://thumbor.prod.vidiocdn.com/z5A6sy3Cyt07YiKb2-AzVDl0xgI=/112x112/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/8638/3ec1bf.jpg", NAGASWARA RADIOTEMEN
+#EXTVLCOPT:http-referrer=https://www.vidio.com/ 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36 
+https://cikgusuraya.tech/vidio/index.php?id=8638&type=hls&token=05
+
+#EXTINF:-1 group-title="VIDOVIL" tvg-logo="https://thumbor.prod.vidiocdn.com/wF424-Ll4ePUIoUDol2zwK9Bwds=/112x112/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/7685/6a2889.jpg", Paramuda FM
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://cikgusuraya.tech/vidio/index.php?id=7685&type=hls&token=05
+
+#EXTINF:-1 group-title="VIDOVIL" tvg-logo="https://thumbor.prod.vidiocdn.com/IBx5_lmCnMmhi9sx56Lg6QWrzkA=/112x112/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/7297/a38a60.png", Radio Cakra
+#EXTVLCOPT:http-referrer=https://www.vidio.com/ 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36 
+https://cikgusuraya.tech/vidio/index.php?id=7297&type=hls&token=05
+
+#EXTINF:-1 group-title="VIDOVIL" tvg-logo="https://thumbor.prod.vidiocdn.com/ikR4EM1fKjNwOtAhXbNQ8NGc5_8=/112x112/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/12239/fafe8d.png", Smart FM
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://cikgusuraya.tech/vidio/index.php?id=12239&type=hls&token=05
+
+#EXTINF:-1 group-title="VIDOVIL" tvg-logo="https://thumbor.prod.vidiocdn.com/u8XUkrZBVz5s4xmJlVREP4fHveg=/112x112/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/7056/b2a58f.jpg", Cosmopolitan Radio
+#EXTVLCOPT:http-referrer=https://www.vidio.com/ 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36 
+https://cikgusuraya.tech/vidio/index.php?id=7056&type=hls&token=05
+
+#EXTINF:-1 group-title="VIDOVIL" tvg-logo="https://thumbor.prod.vidiocdn.com/pmc8fY7M95xmIqNugyoDpp5YC3o=/112x112/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/7170/010bd3.png", ELMITRA
+#EXTVLCOPT:http-referrer=https://www.vidio.com/ 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36 
+https://cikgusuraya.tech/vidio/index.php?id=7170&type=hls&token=05
+
+
+#EXTINF:-1 group-title="VIDOVIL" tvg-logo="https://thumbor.prod.vidiocdn.com/FVWHCBSe6x9YHn66WNR-NdQR_TM=/112x112/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/7188/6d8544.png", MGTRADIO
+#EXTVLCOPT:http-referrer=https://www.vidio.com/ 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36 
+https://cikgusuraya.tech/vidio/index.php?id=7188&type=hls&token=05
+
+#EXTINF:-1 group-title="VIDOVIL" tvg-logo="https://thumbor.prod.vidiocdn.com/3GFOEW3T6W7kFYG2Xr2qPif05Io=/112x112/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/7792/54144b.png", JIZ FM
+#EXTVLCOPT:http-referrer=https://www.vidio.com/ 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36 
+https://cikgusuraya.tech/vidio/index.php?id=7792&type=hls&token=05
+
+#EXTINF:-1 group-title="VIDOVIL" tvg-logo="https://thumbor.prod.vidiocdn.com/0xaSzqfoAn6o-Y71lP0OEySfF9Q=/112x112/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/7283/2bf8b0.png", SWARA SEMARANG
+#EXTVLCOPT:http-referrer=https://www.vidio.com/ 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36 
+https://cikgusuraya.tech/vidio/index.php?id=7283&type=hls&token=05
+
+#EXTINF:-1 group-title="VIDOVIL" tvg-logo="https://thumbor.prod.vidiocdn.com/K28EwOI-fb9VtrxWR-_-FiJs5Q8=/112x112/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/7450/2839cb.jpg", Most FM
+#EXTVLCOPT:http-referrer=https://www.vidio.com/ 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36 
+https://cikgusuraya.tech/vidio/index.php?id=7450&type=hls&token=05
+
+#EXTINF:-1 group-title="VIDOVIL" tvg-logo="https://thumbor.prod.vidiocdn.com/ZJkMggi7WkrrBsVBBygut7UB0Ls=/112x112/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/9106/0287b9.png", CLASSY 103.4 FM
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://cikgusuraya.tech/vidio/index.php?id=9106&type=hls&token=05
+
+#EXTINF:-1 group-title="VIDOVIL" tvg-logo="https://thumbor.prod.vidiocdn.com/RzMcSnWD3Aqt43Tr5Dti-xnrDFw=/112x112/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/7218/0454f1.png", Sushi Radio
+#EXTVLCOPT:http-referrer=https://www.vidio.com/ 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36 
+https://cikgusuraya.tech/vidio/index.php?id=7218&type=hls&token=05
+
+
+#EXTINF:-1 group-logo="https://seeklogo.com/images/1/4k-logo-37F35FB07C-seeklogo.com.png" group-title="4KTV"
+#EXTINF:-1 tvg-logo="https://seeklogo.com/images/1/4k-logo-37F35FB07C-seeklogo.com.png" group-title="4KTV", BEIN SPORT
+https://raw.githubusercontent.com/Arrasyid22/sportlive/main/4kbein.m3u8
+#EXTINF:-1 tvg-logo="https://seeklogo.com/images/1/4k-logo-37F35FB07C-seeklogo.com.png" group-title="4KTV", ELEVEN SPORT
+https://raw.githubusercontent.com/Arrasyid22/sportlive/main/4keleven.m3u8
+#EXTINF:-1 tvg-logo="https://seeklogo.com/images/1/4k-logo-37F35FB07C-seeklogo.com.png" group-title="4KTV", HUB SPORT
+https://raw.githubusercontent.com/Arrasyid22/sportlive/main/4khubsport.m3u8
+#EXTINF:-1 tvg-logo="https://seeklogo.com/images/1/4k-logo-37F35FB07C-seeklogo.com.png" group-title="4KTV", NOW SPORT
+https://raw.githubusercontent.com/Arrasyid22/sportlive/main/4knowsport.m3u8
+#EXTINF:-1 tvg-logo="https://seeklogo.com/images/1/4k-logo-37F35FB07C-seeklogo.com.png" group-title="4KTV", SKY SPORT F1
+https://raw.githubusercontent.com/Arrasyid22/sportlive/main/4kskyf1.m3u8
+#EXTINF:-1 tvg-logo="https://seeklogo.com/images/1/4k-logo-37F35FB07C-seeklogo.com.png" group-title="4KTV", SKY SPORT MAIN EVENT
+https://raw.githubusercontent.com/Arrasyid22/sportlive/main/4kskymainevent.m3u8
+#EXTINF:-1 tvg-logo="https://seeklogo.com/images/1/4k-logo-37F35FB07C-seeklogo.com.png" group-title="4KTV", SPORTV
+https://raw.githubusercontent.com/Arrasyid22/sportlive/main/4ksporttv.m3u8
+#EXTINF:-1 tvg-logo="https://seeklogo.com/images/1/4k-logo-37F35FB07C-seeklogo.com.png" group-title="4KTV", V SPORT
+https://raw.githubusercontent.com/Arrasyid22/sportlive/main/4kvsport.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/INDOSIAR_Logo.png/1280px-INDOSIAR_Logo.png" group-title="EMTEK GRUP", INDOSIAR 1
+http://aflaxtv.xyz:8080/2c258a9b/c73f1cfbce/162138
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Moji_blue.svg/1200px-Moji_blue.svg.png" group-title="EMTEK GRUP", MOJI 1
+http://aflaxtv.xyz:8080/2c258a9b/c73f1cfbce/298550
+#EXTINF:-1 tvg-logo="https://www.wowkeren.com/display/images/photo/2019/09/07/00272011.jpg" group-title="EMTEK GRUP", SCTV 1
+http://aflaxtv.xyz:8080/2c258a9b/c73f1cfbce/162141
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/Mentari_TV.svg/200px-Mentari_TV.svg.png" group-title="EMTEK GRUP", MENTARI TV 1
+http://aflaxtv.xyz:8080/2c258a9b/c73f1cfbce/298546
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/INDOSIAR_Logo.png/1280px-INDOSIAR_Logo.png" group-title="EMTEK GRUP", INDOSIAR 2
+http://iptvtree.net:8080/c4596f70/c3848d92/162138
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Moji_blue.svg/1200px-Moji_blue.svg.png" group-title="EMTEK GRUP", MOJI 2
+http://iptvtree.net:8080/c4596f70/c3848d92/298550
+#EXTINF:-1 tvg-logo="https://www.wowkeren.com/display/images/photo/2019/09/07/00272011.jpg" group-title="EMTEK GRUP", SCTV 2
+http://iptvtree.net:8080/c4596f70/c3848d92/162141
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/Mentari_TV.svg/200px-Mentari_TV.svg.png" group-title="EMTEK GRUP", MENTARI TV 2
+http://iptvtree.net:8080/c4596f70/c3848d92/298546
+
+
+#EXTINF:-1 tvg-id="HBO HD" tvg-url="" tvg-logo="https://e7.pngegg.com/pngimages/476/791/png-clipart-hbo-now-hbo-go-television-hbo-latino-others-text-logo.png" group-title="HBO ID",HBO 1
+http://aflaxtv.xyz:8080/2c258a9b/c73f1cfbce/197972
+#EXTINF:-1 tvg-id="HBO Hits HD" tvg-url="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/f/fc/HBOHits-ASIA.png" group-title="HBO ID",HBO Hits 1
+http://aflaxtv.xyz:8080/2c258a9b/c73f1cfbce/196480
+#EXTINF:-1 tvg-id="HBO Family HD" tvg-url="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/d2/HBO_Family_Asia_logo.svg/1200px-HBO_Family_Asia_logo.svg.png" group-title="HBO ID",HBO Family 1
+http://aflaxtv.xyz:8080/2c258a9b/c73f1cfbce/197055
+#EXTINF:-1 tvg-id="HBO Signature HD" tvg-url="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/af/HBO_Signature_Asia.png" group-title="HBO ID",HBO Signature 1
+http://aflaxtv.xyz:8080/2c258a9b/c73f1cfbce/221948
+#EXTINF:-1 tvg-id="Cinemax HD" tvg-url="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f0/611-cinemax.png" group-title="HBO ID",Cinemax 1
+http://aflaxtv.xyz:8080/2c258a9b/c73f1cfbce/197964
+
+#EXTINF:-1 tvg-id="HBO HD" tvg-url="" tvg-logo="https://e7.pngegg.com/pngimages/476/791/png-clipart-hbo-now-hbo-go-television-hbo-latino-others-text-logo.png" group-title="HBO ID",HBO 2
+http://iptvtree.net:8080/c4596f70/c3848d92/197972
+#EXTINF:-1 tvg-id="HBO Hits HD" tvg-url="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/f/fc/HBOHits-ASIA.png" group-title="HBO ID",HBO Hits 2
+http://iptvtree.net:8080/c4596f70/c3848d92/196480
+#EXTINF:-1 tvg-id="HBO Family HD" tvg-url="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/d2/HBO_Family_Asia_logo.svg/1200px-HBO_Family_Asia_logo.svg.png" group-title="HBO ID",HBO Family 2
+http://iptvtree.net:8080/c4596f70/c3848d92/197055
+#EXTINF:-1 tvg-id="HBO Signature HD" tvg-url="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/af/HBO_Signature_Asia.png" group-title="HBO ID",HBO Signature 2
+http://iptvtree.net:8080/c4596f70/c3848d92/221948
+#EXTINF:-1 tvg-id="Cinemax HD" tvg-url="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f0/611-cinemax.png" group-title="HBO ID",Cinemax 2
+http://iptvtree.net:8080/c4596f70/c3848d92/197964
+
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRa26_vPZ8WXonfR6KRH8VoMtnsQD501-ri3k73VoiTf1hr8RHMPXduwoQ&s=10" group-title="ETV BIOSKOP", ETV BIOSKOP 1 X
+http://iptvtree.net:8080/F28364/b1a3b4a8/298526
+https://raw.githubusercontent.com/Arrasyid22/moviepremium/main/etvbioskop1.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRa26_vPZ8WXonfR6KRH8VoMtnsQD501-ri3k73VoiTf1hr8RHMPXduwoQ&s=10" group-title="ETV BIOSKOP", ETV BIOSKOP 2 X
+http://iptvtree.net:8080/F28364/b1a3b4a8/298527
+https://raw.githubusercontent.com/Arrasyid22/moviepremium/main/etvbioskop2.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRa26_vPZ8WXonfR6KRH8VoMtnsQD501-ri3k73VoiTf1hr8RHMPXduwoQ&s=10" group-title="ETV BIOSKOP", ETV BIOSKOP 3 X
+http://iptvtree.net:8080/F28364/b1a3b4a8/298528
+https://raw.githubusercontent.com/Arrasyid22/moviepremium/main/etvbioskop3.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRa26_vPZ8WXonfR6KRH8VoMtnsQD501-ri3k73VoiTf1hr8RHMPXduwoQ&s=10" group-title="ETV BIOSKOP", ETV BIOSKOP 4 X
+http://iptvtree.net:8080/F28364/b1a3b4a8/298529
+https://raw.githubusercontent.com/Arrasyid22/moviepremium/main/etvbioskop4.m3u8
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTdFbLfqLOSDv-houfb34E1x9k9pNsl2dd59A&usqp=CAU" group-title="ETV BIOSKOP",ETV BIOSKOP 1
+http://aflaxtv.xyz:8080/2c258a9b/c73f1cfbce/298526
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTdFbLfqLOSDv-houfb34E1x9k9pNsl2dd59A&usqp=CAU" group-title="ETV BIOSKOP",ETV BIOSKOP 2
+http://aflaxtv.xyz:8080/2c258a9b/c73f1cfbce/298527
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTdFbLfqLOSDv-houfb34E1x9k9pNsl2dd59A&usqp=CAU" group-title="ETV BIOSKOP",ETV BIOSKOP 3
+http://aflaxtv.xyz:8080/2c258a9b/c73f1cfbce/298528
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTdFbLfqLOSDv-houfb34E1x9k9pNsl2dd59A&usqp=CAU" group-title="ETV BIOSKOP",ETV BIOSKOP 4
+http://aflaxtv.xyz:8080/2c258a9b/c73f1cfbce/298529
+
+
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-11/e17423b3478a962cdb92c6c20a15f178.jpg" group-title="MALAYSIA PREMIUM 1", MY: 8TV
+http://iptvtree.net:8080/mrhyena10/0ec929873f/171968
+
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/portal/picon/2020-12/e0ca9c22b972add893fdad34af4255bc.png" group-title="MALAYSIA PREMIUM 1", MY: Animax
+http://iptvtree.net:8080/mrhyena10/0ec929873f/157486
+
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-04/f9cbb250de1822306dc0b7e9cdd23c9a.png" group-title="MALAYSIA PREMIUM 1", MY: Astro Arena
+http://iptvtree.net:8080/mrhyena10/0ec929873f/157485
+
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/portal/picon/2020-12/e976949486bc089b9dec986e9a860ff8.png" group-title="MALAYSIA PREMIUM 1", MY: Astro Awani
+http://iptvtree.net:8080/mrhyena10/0ec929873f/157478
+
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/portal/picon/2020-12/edc8a9c38c820781eb4785f4e5ee89ca.png" group-title="MALAYSIA PREMIUM 1", MY: Astro Cricket
+http://iptvtree.net:8080/mrhyena10/0ec929873f/157565
+
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-08/28fc1cfc2e9b5b2ba64f6bf5bcaa357d.png" group-title="MALAYSIA PREMIUM 1", MY: Astro Oasis
+http://iptvtree.net:8080/mrhyena10/0ec929873f/157489
+
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/portal/picon/2020-12/584608e7b0eb904734396e6cc6831811.png" group-title="MALAYSIA PREMIUM 1", MY: Astro Prima
+http://iptvtree.net:8080/mrhyena10/0ec929873f/157467
+
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/portal/picon/2020-12/56d8756215a55bb4bc650428934f45d4.png" group-title="MALAYSIA PREMIUM 1", MY: Astro SuperSport
+http://iptvtree.net:8080/mrhyena10/0ec929873f/146068
+
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/portal/picon/2020-12/601d9900ec857fb5c10762208e18f474.png" group-title="MALAYSIA PREMIUM 1", MY: Astro SuperSport 2
+http://iptvtree.net:8080/mrhyena10/0ec929873f/157556
+
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/portal/picon/2020-12/c450e8241eb19fdbc99b78c96be08c2d.png" group-title="MALAYSIA PREMIUM 1", MY: Astro SuperSport 3
+http://iptvtree.net:8080/mrhyena10/0ec929873f/157557
+
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/portal/picon/2020-12/a24abde2dc683d551ebfae1f0820315c.png" group-title="MALAYSIA PREMIUM 1", MY: Astro SuperSport 4
+http://iptvtree.net:8080/mrhyena10/0ec929873f/157558
+
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-04/f9cbb250de1822306dc0b7e9cdd23c9a.png" group-title="MALAYSIA PREMIUM 1", MY: Astro Arena
+http://iptvtree.net:8080/mrhyena10/0ec929873f/157485
+
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/portal/picon/2020-12/e976949486bc089b9dec986e9a860ff8.png" group-title="MALAYSIA PREMIUM 1", MY: Astro Awani
+http://iptvtree.net:8080/mrhyena10/0ec929873f/157478
+
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/portal/picon/2020-12/edc8a9c38c820781eb4785f4e5ee89ca.png" group-title="MALAYSIA PREMIUM 1", MY: Astro Cricket
+http://iptvtree.net:8080/mrhyena10/0ec929873f/157565
+
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/portal/picon/2020-12/2d7d739d57aa860159c36df8c746c779.png" group-title="MALAYSIA PREMIUM 1", MY: AXN
+http://iptvtree.net:8080/mrhyena10/0ec929873f/157542
+
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-12/c23b25dd57cbcc578a72dda7e35fdf08.png" group-title="MALAYSIA PREMIUM 1", MY: BBC Earth
+http://iptvtree.net:8080/mrhyena10/0ec929873f/171979
+
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-12/661d6fd8993dd9aaf43e249d036e9eb3.jpg" group-title="MALAYSIA PREMIUM 1", MY: beIN Sports
+http://iptvtree.net:8080/mrhyena10/0ec929873f/157561
+
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/portal/picon/2020-12/602e805f1abfd464565db600ffd3f028.png" group-title="MALAYSIA PREMIUM 1", MY: Bloomberg TV
+http://iptvtree.net:8080/mrhyena10/0ec929873f/157533
+
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-11/515d63ff66edb49dc64a03093e9f6fd2.png" group-title="MALAYSIA PREMIUM 1", MY: Boomerang
+http://iptvtree.net:8080/mrhyena10/0ec929873f/171955
+
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="MALAYSIA PREMIUM 1", MY: Cartoonito
+http://iptvtree.net:8080/mrhyena10/0ec929873f/300865
+
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-11/feda2de53c7fd947f29ff4740860c233.png" group-title="MALAYSIA PREMIUM 1", MY: Celestial Classic Movies (CCM)
+http://iptvtree.net:8080/mrhyena10/0ec929873f/157512
+
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/portal/picon/2020-12/51e29412b2a80c8afa779e56b99dccdd.png" group-title="MALAYSIA PREMIUM 1", MY: Celestial Movies
+http://iptvtree.net:8080/mrhyena10/0ec929873f/174687
+
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-08/ad7a1e1bb94a07f128ce21def6a0adc3.png" group-title="MALAYSIA PREMIUM 1", MY: Crime+ Investigation
+http://iptvtree.net:8080/mrhyena10/0ec929873f/157554
+
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-02/838a78d02f3d18a23b94402dd8420a2b.png" group-title="MALAYSIA PREMIUM 1", MY: Discovery Science
+http://iptvtree.net:8080/mrhyena10/0ec929873f/157530
+
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="MALAYSIA PREMIUM 1", MY: Dreamworks
+http://iptvtree.net:8080/mrhyena10/0ec929873f/171959
+
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/portal/picon/2020-12/32a4269c4918eeef41af63deb0f43083.png" group-title="MALAYSIA PREMIUM 1", MY: FOX SPORTS 2
+http://iptvtree.net:8080/mrhyena10/0ec929873f/157488
+
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-06/2e10818ae32a06e6561f9dd7d5f6b12d.png" group-title="MALAYSIA PREMIUM 1", MY: GO SHOP
+http://iptvtree.net:8080/mrhyena10/0ec929873f/264511
+
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/cs/etc/blank-icon.png" group-title="MALAYSIA PREMIUM 1", MY: Harvest TV
+http://iptvtree.net:8080/mrhyena10/0ec929873f/299917
+
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/portal/picon/2020-12/25ab65a39a10d628b5c9319b423b6497.png" group-title="MALAYSIA PREMIUM 1", MY: Hits
+http://iptvtree.net:8080/mrhyena10/0ec929873f/157545
+
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/portal/picon/2020-12/652a9e2547c9b24a6a2b0eb16b43a1f1.png" group-title="MALAYSIA PREMIUM 1", MY: HITS Movies
+http://iptvtree.net:8080/mrhyena10/0ec929873f/157477
+
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/cs/etc/blank-icon.png" group-title="MALAYSIA PREMIUM 1", MY: KIX
+http://iptvtree.net:8080/mrhyena10/0ec929873f/299963
+
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-10/98ac421179bbfd4dc8f4f4640667e35b.png" group-title="MALAYSIA PREMIUM 1", MY: Local Now Family Flix
+http://iptvtree.net:8080/mrhyena10/0ec929873f/296889
+
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2020-12/02fe87f4680ce4c67197ba3c4c5bf9c7.png" group-title="MALAYSIA PREMIUM 1", MY: MTV
+http://iptvtree.net:8080/mrhyena10/0ec929873f/157555
+
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-11/92307ca79c909c2f7881199792c74c0b.png" group-title="MALAYSIA PREMIUM 1", MY: Nick Jr
+http://iptvtree.net:8080/mrhyena10/0ec929873f/157546
+
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-07/b92ffe0e329e6808620cf9b9f92f1523.png" group-title="MALAYSIA PREMIUM 1", MY: NTV 7
+http://iptvtree.net:8080/mrhyena10/0ec929873f/174695
+
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-07/667e24a26ecfe1070bd6a40a113c0159.png" group-title="MALAYSIA PREMIUM 1", MY: RTB Sukmaindera
+http://iptvtree.net:8080/mrhyena10/0ec929873f/299546
+
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-07/7f3190f95ee41181d69a2edcc5321131.png" group-title="MALAYSIA PREMIUM 1", MY: RTM TV 1
+http://iptvtree.net:8080/mrhyena10/0ec929873f/158357
+
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-08/4d495580f894286e82e1f9ee33d2874b.png" group-title="MALAYSIA PREMIUM 1", MY: RTM TV 2
+http://iptvtree.net:8080/mrhyena10/0ec929873f/158355
+
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-11/338111c497a80baf3e1dccfe7e9a5cc0.jpg" group-title="MALAYSIA PREMIUM 1", MY: TV 1
+http://iptvtree.net:8080/mrhyena10/0ec929873f/300872
+
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-11/15ec53174f6ecee5d3802b391d75c5a6.jpg" group-title="MALAYSIA PREMIUM 1", MY: TV 2
+http://iptvtree.net:8080/mrhyena10/0ec929873f/300873
+
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-08/7c4b2443678d05d7f2032e5519eec970.png" group-title="MALAYSIA PREMIUM 1", MY: TV 3
+http://iptvtree.net:8080/mrhyena10/0ec929873f/158360
+
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-07/3adc723d4576cb0b512751fe4073c326.png" group-title="MALAYSIA PREMIUM 1", MY: TV 9
+http://iptvtree.net:8080/mrhyena10/0ec929873f/171953
+
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-07/7bcedbeb3814000d4e785498f51b2099.png" group-title="MALAYSIA PREMIUM 1", MY: TV Alhijrah
+http://iptvtree.net:8080/mrhyena10/0ec929873f/157491
+
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-01/66ac88e17edd3d12e424a58a3a9b1d45.png" group-title="MALAYSIA PREMIUM 1", MY: TVN Movies
+http://iptvtree.net:8080/mrhyena10/0ec929873f/297499
+
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/portal/picon/2020-12/ab95d8e974bb7f697b1dd79c7ac0f765.png" group-title="MALAYSIA PREMIUM 1", MY: Warner TV
+http://iptvtree.net:8080/mrhyena10/0ec929873f/157550
+
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/cs/etc/blank-icon.png" group-title="INDONESIA PREMIUM 1", ID: 01. ETV Live Event
+http://iptvtree.net:8080/mrhyena10/0ec929873f/298491
+
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/cs/etc/blank-icon.png" group-title="INDONESIA PREMIUM 1", ID: 02. ETV Live Event 02
+http://iptvtree.net:8080/mrhyena10/0ec929873f/298492
+
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/cs/etc/blank-icon.png" group-title="INDONESIA PREMIUM 1", ID: 24/7 Angry Birds Toons
+http://iptvtree.net:8080/mrhyena10/0ec929873f/298493
+
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/cs/etc/blank-icon.png" group-title="INDONESIA PREMIUM 1", ID: 24/7 BabyBus Indonesia
+http://iptvtree.net:8080/mrhyena10/0ec929873f/298494
+
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/cs/etc/blank-icon.png" group-title="INDONESIA PREMIUM 1", ID: 24/7 Donald Ducks
+http://iptvtree.net:8080/mrhyena10/0ec929873f/298495
+
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/cs/etc/blank-icon.png" group-title="INDONESIA PREMIUM 1", ID: 24/7 Doraemon
+http://iptvtree.net:8080/mrhyena10/0ec929873f/298496
+
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/cs/etc/blank-icon.png" group-title="INDONESIA PREMIUM 1", ID: 24/7 Just For Laughs
+http://iptvtree.net:8080/mrhyena10/0ec929873f/298497
+
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/cs/etc/blank-icon.png" group-title="INDONESIA PREMIUM 1", ID: 24/7 Mr Bean Cartoon
+http://iptvtree.net:8080/mrhyena10/0ec929873f/298498
+
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/cs/etc/blank-icon.png" group-title="INDONESIA PREMIUM 1", ID: 24/7 Mr. Bean Classic
+http://iptvtree.net:8080/mrhyena10/0ec929873f/298499
+
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/cs/etc/blank-icon.png" group-title="INDONESIA PREMIUM 1", ID: 24/7 Tom And Jerry
+http://iptvtree.net:8080/mrhyena10/0ec929873f/298500
+
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/cs/etc/blank-icon.png" group-title="INDONESIA PREMIUM 1", ID: 24/7 Upin Ipin
+http://iptvtree.net:8080/mrhyena10/0ec929873f/298501
+
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/cs/etc/blank-icon.png" group-title="INDONESIA PREMIUM 1", ID: 24/7 Warkop DKI
+http://iptvtree.net:8080/mrhyena10/0ec929873f/298502
+
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/cs/etc/blank-icon.png" group-title="INDONESIA PREMIUM 1", ID: AMTV &#40;Aula Media TV&#41;
+http://iptvtree.net:8080/mrhyena10/0ec929873f/299484
+
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-03/32ae863c9590a45b0a4f899c42c8b465.png" group-title="INDONESIA PREMIUM 1", ID: ANIMAL PLANET
+http://iptvtree.net:8080/mrhyena10/0ec929873f/157532
+
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-05/ac69997f647a6e4b289ee8a647d0dfbd.png" group-title="INDONESIA PREMIUM 1", ID: Animax
+http://iptvtree.net:8080/mrhyena10/0ec929873f/165081
+
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-05/d0f77c4ae23b787f4aab6ed458ece469.png" group-title="INDONESIA PREMIUM 1", ID: AniPlus
+http://iptvtree.net:8080/mrhyena10/0ec929873f/298504
+
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/baae5840cf8cfd60d1bd93565e00ff59.png" group-title="INDONESIA PREMIUM 1", ID: ANTV
+http://iptvtree.net:8080/mrhyena10/0ec929873f/165072
+
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-05/32bd23bf3ba1d1f2e4f55a42a928169e.png" group-title="INDONESIA PREMIUM 1", ID: Arirang
+http://iptvtree.net:8080/mrhyena10/0ec929873f/247447
+
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-05/125d62efd4ca9cc3e87364fa41cf6536.png" group-title="INDONESIA PREMIUM 1", ID: Asian Food Network
+http://iptvtree.net:8080/mrhyena10/0ec929873f/298503
+
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/3c8d63e4a3d5b6c065651caf9a8cde50.png" group-title="INDONESIA PREMIUM 1", ID: AXN
+http://iptvtree.net:8080/mrhyena10/0ec929873f/165079
+
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-04/5e1f1850a8202cc1ef4f60c2a0e8acd3.png" group-title="INDONESIA PREMIUM 1", ID: Baby TV
+http://iptvtree.net:8080/mrhyena10/0ec929873f/157605
+
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-01/8665e7afb44b5a32eb3b9e0fa2b9b12f.png" group-title="INDONESIA PREMIUM 1", ID: Bali TV
+http://iptvtree.net:8080/mrhyena10/0ec929873f/197962
+
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-10/2a775aaea195c8c104012a3f1823d059.jpeg" group-title="INDONESIA PREMIUM 1", ID: Balikpapan TV
+http://iptvtree.net:8080/mrhyena10/0ec929873f/166409
+
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/425c62827170957e85a34b7e7563869c.png" group-title="INDONESIA PREMIUM 1", ID: Bandung TV
+http://iptvtree.net:8080/mrhyena10/0ec929873f/166416
+
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-04/6f66017709d5d2bd93d4dd0e028a7e80.png" group-title="INDONESIA PREMIUM 1", ID: BBC Earth
+http://iptvtree.net:8080/mrhyena10/0ec929873f/165106
+
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/cs/etc/blank-icon.png" group-title="INDONESIA PREMIUM 1", ID: BBC Lifestyle
+http://iptvtree.net:8080/mrhyena10/0ec929873f/264747
+
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-05/0df06bc563f4f3bf615dc3ea7e55fb8c.png" group-title="INDONESIA PREMIUM 1", ID: beIN Sports 1
+http://iptvtree.net:8080/mrhyena10/0ec929873f/165105
+
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-05/ba5a124ab816d4a371da240396786a62.png" group-title="INDONESIA PREMIUM 1", ID: beIN Sports 3
+http://iptvtree.net:8080/mrhyena10/0ec929873f/298506
+
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-10/bd019732db2be6aed863964f280e1d0c.svg" group-title="INDONESIA PREMIUM 1", ID: Berita Satu
+http://iptvtree.net:8080/mrhyena10/0ec929873f/162513
+
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-01/88fc948cd7f31c7a29c4f302326724d7.png" group-title="INDONESIA PREMIUM 1", ID: Berita Satu news
+http://iptvtree.net:8080/mrhyena10/0ec929873f/287421
+
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/c5aca927f5717086d94a73d71939bffa.jpg" group-title="INDONESIA PREMIUM 1", ID: Berita Satu World
+http://iptvtree.net:8080/mrhyena10/0ec929873f/162136
+
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-05/c160471d97eadb4d67e82e6915754e96.png" group-title="INDONESIA PREMIUM 1", ID: Bioskop Indonesia
+http://iptvtree.net:8080/mrhyena10/0ec929873f/264801
+
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-04/780b9b284a9a6eef24c46a6a1b64f894.png" group-title="INDONESIA PREMIUM 1", ID: Bloomberg TV
+http://iptvtree.net:8080/mrhyena10/0ec929873f/157599
+
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/1d192d86ab16c1103668385201f76d94.png" group-title="INDONESIA PREMIUM 1", ID: Boomerang
+http://iptvtree.net:8080/mrhyena10/0ec929873f/165109
+
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-05/417e73b7aedc07a73aa59b7d76bc6e6b.png" group-title="INDONESIA PREMIUM 1", ID: Boomerang EN
+http://iptvtree.net:8080/mrhyena10/0ec929873f/298507
+
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-04/bbdc8a56aca2bffb311728507a93f75f.png" group-title="INDONESIA PREMIUM 1", ID: Cartoon Network
+http://iptvtree.net:8080/mrhyena10/0ec929873f/157593
+
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-05/c4ab7dac711298d08ad55255eee58029.png" group-title="INDONESIA PREMIUM 1", ID: CBeebies
+http://iptvtree.net:8080/mrhyena10/0ec929873f/247448
+
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-05/e781645d9f686de47e29b212df4791a1.png" group-title="INDONESIA PREMIUM 1", ID: CCM
+http://iptvtree.net:8080/mrhyena10/0ec929873f/165103
+
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-05/03722835968ebf5a812fcb4ad2d041dc.png" group-title="INDONESIA PREMIUM 1", ID: Celestial Movies
+http://iptvtree.net:8080/mrhyena10/0ec929873f/165065
+
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-05/8bfe173c57ec17bf46e0f6ba975deb8a.png" group-title="INDONESIA PREMIUM 1", ID: CGTN
+http://iptvtree.net:8080/mrhyena10/0ec929873f/298510
+
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-05/493aaa3003ce5a94d1bcfa27cf5eedb2.png" group-title="INDONESIA PREMIUM 1", ID: CGTN Documentary
+http://iptvtree.net:8080/mrhyena10/0ec929873f/298511
+
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-05/9cb6c8614be38cc1944a1747d414bd86.png" group-title="INDONESIA PREMIUM 1", ID: Champion TV 1
+http://iptvtree.net:8080/mrhyena10/0ec929873f/298512
+
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-05/62e36432e548966b8c3a4a2afe63ee7e.png" group-title="INDONESIA PREMIUM 1", ID: Champion TV 2
+http://iptvtree.net:8080/mrhyena10/0ec929873f/298513
+
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-05/676a8a5e1a9ddc807d4c646db2863591.png" group-title="INDONESIA PREMIUM 1", ID: Champion TV 3
+http://iptvtree.net:8080/mrhyena10/0ec929873f/298514
+
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-05/ef1ee75b73bdfcb0056cd605e00a2bca.png" group-title="INDONESIA PREMIUM 1", ID: Channel News Asia
+http://iptvtree.net:8080/mrhyena10/0ec929873f/157602
+
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/cs/etc/blank-icon.png" group-title="INDONESIA PREMIUM 1", ID: Chinese Drama
+http://iptvtree.net:8080/mrhyena10/0ec929873f/298516
+
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-05/67979916a84e98b9942945379c1e648b.png" group-title="INDONESIA PREMIUM 1", ID: CinemaWorld
+http://iptvtree.net:8080/mrhyena10/0ec929873f/165082
+
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-05/42d29b03357fec1753cf970323f02e04.png" group-title="INDONESIA PREMIUM 1", ID: Cinemax
+http://iptvtree.net:8080/mrhyena10/0ec929873f/197964
+
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-05/582b49165511b164bcca3bc14a8c5b6d.png" group-title="INDONESIA PREMIUM 1", ID: Citra Bioskop
+http://iptvtree.net:8080/mrhyena10/0ec929873f/298519
+
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-05/675c678b8c55e53b1e5e9d3da50befb1.png" group-title="INDONESIA PREMIUM 1", ID: Citra Dangdut
+http://iptvtree.net:8080/mrhyena10/0ec929873f/247446
+
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-05/f3002848368f2982b1a30e82f1842917.png" group-title="INDONESIA PREMIUM 1", ID: Citra Drama
+http://iptvtree.net:8080/mrhyena10/0ec929873f/264748
+
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-05/9b24e6afb5920e1696c0a0fceda060cf.png" group-title="INDONESIA PREMIUM 1", ID: Citra Entertainment
+http://iptvtree.net:8080/mrhyena10/0ec929873f/298520
+
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/4415ae88fbabaa7f388eaa7dead5e038.png" group-title="INDONESIA PREMIUM 1", ID: CNBC Indonesia
+http://iptvtree.net:8080/mrhyena10/0ec929873f/165062
+
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/8d73d72ec854dfe8a9c9865555bb9728.png" group-title="INDONESIA PREMIUM 1", ID: CNN Indonesia
+http://iptvtree.net:8080/mrhyena10/0ec929873f/162137
+
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-05/da42e92252317dddadd514f5c5b6e0dc.png" group-title="INDONESIA PREMIUM 1", ID: CNN International
+http://iptvtree.net:8080/mrhyena10/0ec929873f/264778
+
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-09/01cc51b112da6bcf045df6318e213693.png" group-title="INDONESIA PREMIUM 1", ID: Crime+ Investigation
+http://iptvtree.net:8080/mrhyena10/0ec929873f/165052
+
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-05/346b56a716927612398ba160e78effd0.png" group-title="INDONESIA PREMIUM 1", ID: Da Ai TV
+http://iptvtree.net:8080/mrhyena10/0ec929873f/165061
+
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/4ed79d28be4e787382d0b8bf16a2b69b.png" group-title="INDONESIA PREMIUM 1", ID: Discovery World
+http://iptvtree.net:8080/mrhyena10/0ec929873f/157597
+
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/a4ea1e073cfec663989ca1db24ba699f.png" group-title="INDONESIA PREMIUM 1", ID: Disney Channel
+http://iptvtree.net:8080/mrhyena10/0ec929873f/165075
+
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/7dcbeab064ba8b1eefb6115fc283aaeb.png" group-title="INDONESIA PREMIUM 1", ID: Disney Junior
+http://iptvtree.net:8080/mrhyena10/0ec929873f/162511
+
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-05/d7b3960e71c668eeaff78b4145d6173e.png" group-title="INDONESIA PREMIUM 1", ID: Disney XD
+http://iptvtree.net:8080/mrhyena10/0ec929873f/276564
+
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-05/b83befd00501db18989297ee6b217e02.png" group-title="INDONESIA PREMIUM 1", ID: DreamWorks
+http://iptvtree.net:8080/mrhyena10/0ec929873f/157610
+
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-05/848ef5f24db25a9bd1d39c675aa0dc80.png" group-title="INDONESIA PREMIUM 1", ID: Dunia Anak
+http://iptvtree.net:8080/mrhyena10/0ec929873f/264753
+
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-05/7d1eda2ff2dc3180e2400733458a4a8b.png" group-title="INDONESIA PREMIUM 1", ID: Dunia Lain
+http://iptvtree.net:8080/mrhyena10/0ec929873f/298524
+
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-05/4438aed45f7b7df82c2bcba4858c3d88.png" group-title="INDONESIA PREMIUM 1", ID: Eat&Go
+http://iptvtree.net:8080/mrhyena10/0ec929873f/264765
+
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/aae56ad9266b920e324b5de943da25ae.png" group-title="INDONESIA PREMIUM 1", ID: Ent
+http://iptvtree.net:8080/mrhyena10/0ec929873f/157581
+
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/cs/etc/blank-icon.png" group-title="INDONESIA PREMIUM 1", ID: Etv Bioskop
+http://iptvtree.net:8080/mrhyena10/0ec929873f/298526
+
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/cs/etc/blank-icon.png" group-title="INDONESIA PREMIUM 1", ID: Etv Bioskop 02
+http://iptvtree.net:8080/mrhyena10/0ec929873f/298527
+
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/cs/etc/blank-icon.png" group-title="INDONESIA PREMIUM 1", ID: Etv Bioskop 03
+http://iptvtree.net:8080/mrhyena10/0ec929873f/298528
+
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/cs/etc/blank-icon.png" group-title="INDONESIA PREMIUM 1", ID: Etv Bioskop 04
+http://iptvtree.net:8080/mrhyena10/0ec929873f/298529
+
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-05/1b93a982149c1ae794f98d2c80c5bf5d.png" group-title="INDONESIA PREMIUM 1", ID: Fashion TV
+http://iptvtree.net:8080/mrhyena10/0ec929873f/298530
+
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-05/9a23440ace36f97097366f4bb8d2ecfa.png" group-title="INDONESIA PREMIUM 1", ID: Fight Sport
+http://iptvtree.net:8080/mrhyena10/0ec929873f/298531
+
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/cs/etc/blank-icon.png" group-title="INDONESIA PREMIUM 1", ID: FLIK
+http://iptvtree.net:8080/mrhyena10/0ec929873f/165095
+
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/5c412828b788580430141e8acf3d7425.png" group-title="INDONESIA PREMIUM 1", ID: FMN
+http://iptvtree.net:8080/mrhyena10/0ec929873f/165057
+
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/b4da330f49c65c6be3540a71af81d638.png" group-title="INDONESIA PREMIUM 1", ID: Fox Life
+http://iptvtree.net:8080/mrhyena10/0ec929873f/165083
+
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-05/dddbae34f8fafd015e5221a02075ad19.png" group-title="INDONESIA PREMIUM 1", ID: Galaxy
+http://iptvtree.net:8080/mrhyena10/0ec929873f/264773
+
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-05/3a174e88de5f3dad328641d7d7524b25.png" group-title="INDONESIA PREMIUM 1", ID: Galaxy Premium
+http://iptvtree.net:8080/mrhyena10/0ec929873f/264774
+
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-05/5662c41e221b11f3cff14f60ac5b862e.png" group-title="INDONESIA PREMIUM 1", ID: GEM
+http://iptvtree.net:8080/mrhyena10/0ec929873f/298533
+
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/2498aa1ffc66cf53f77c63b77a787d3a.png" group-title="INDONESIA PREMIUM 1", ID: GTV
+http://iptvtree.net:8080/mrhyena10/0ec929873f/157578
+
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-01/0ccfe41056aa7d1274f1fc80abe17ea3.png" group-title="INDONESIA PREMIUM 1", ID: HBO
+http://iptvtree.net:8080/mrhyena10/0ec929873f/197972
+
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-01/43c918deb93b6cb276bc97bc3316d66a.png" group-title="INDONESIA PREMIUM 1", ID: HBO Family
+http://iptvtree.net:8080/mrhyena10/0ec929873f/197055
+
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-01/00e312e6e408859a759d2cb679bf2f28.png" group-title="INDONESIA PREMIUM 1", ID: HBO Hits
+http://iptvtree.net:8080/mrhyena10/0ec929873f/196480
+
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-05/b918a4f6087d1550bed78481f3fd878e.png" group-title="INDONESIA PREMIUM 1", ID: HBO Signature
+http://iptvtree.net:8080/mrhyena10/0ec929873f/221948
+
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-05/cbfaa9907820b6dbfc30fe48ae8bf3b8.png" group-title="INDONESIA PREMIUM 1", ID: HGTV
+http://iptvtree.net:8080/mrhyena10/0ec929873f/298535
+
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-05/64856f589d7cf4ebc75e471cc73e98f3.png" group-title="INDONESIA PREMIUM 1", ID: Hip Hip Horee!
+http://iptvtree.net:8080/mrhyena10/0ec929873f/298536
+
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/dfc965449b772322e8cb39b5c5491d62.png" group-title="INDONESIA PREMIUM 1", ID: History
+http://iptvtree.net:8080/mrhyena10/0ec929873f/162519
+
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-01/ae782ad6176bbda366bbaf7e52bdff09.png" group-title="INDONESIA PREMIUM 1", ID: Hits
+http://iptvtree.net:8080/mrhyena10/0ec929873f/165085
+
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-01/0f522aea18d3fbc38100a8f629bb4f07.png" group-title="INDONESIA PREMIUM 1", ID: Hits Movies
+http://iptvtree.net:8080/mrhyena10/0ec929873f/221947
+
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-05/1470dba88dbd7fa85ae09b801fee6fc9.png" group-title="INDONESIA PREMIUM 1", ID: Horee!
+http://iptvtree.net:8080/mrhyena10/0ec929873f/264750
+
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-10/06da81eac8b78bcc95cff8e173d9ca07.png" group-title="INDONESIA PREMIUM 1", ID: Huma Betang TV
+http://iptvtree.net:8080/mrhyena10/0ec929873f/299486
+
